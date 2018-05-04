@@ -64,7 +64,8 @@
     "serve": "gatsby serve",
     "build": "gatsby build",
     "build:pp": "gatsby build --prefix-paths",
-    "build:gh": "npm run clean && npm run build:pp && gh-pages -d public",
+    "build:gh":
+      "npm run clean && npm run build && gh-pages -b master -d public",
     "deploy": "npm run build:gh",
     "clean": "rm -rf public && rm -rf .cache",
     "lint:js": "eslint --ext .js,.jsx .",
