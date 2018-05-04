@@ -9028,12 +9028,6 @@ react-side-effect@^1.1.0:
     exenv "^1.2.1"
     shallowequal "^1.0.1"
 
-react-svg@3.0.1:
-  version "3.0.1"
-  resolved "https://registry.yarnpkg.com/react-svg/-/react-svg-3.0.1.tgz#46ef90ed7408b33cee4d670ad270cbdae3e39a6d"
-  dependencies:
-    svg-injector "^1.1.3"
-
 react-twitter-widgets@^1.7.1:
   version "1.7.1"
   resolved "https://registry.yarnpkg.com/react-twitter-widgets/-/react-twitter-widgets-1.7.1.tgz#60061f37a8c4f361c27f3d1d7ceba98d3cd80a40"
@@ -11018,10 +11012,6 @@ supports-color@^5.3.0:
   resolved "https://registry.yarnpkg.com/supports-color/-/supports-color-5.3.0.tgz#5b24ac15db80fa927cf5227a4a33fd3c4c7676c0"
   dependencies:
     has-flag "^3.0.0"
-
-svg-injector@^1.1.3:
-  version "1.1.3"
-  resolved "https://registry.yarnpkg.com/svg-injector/-/svg-injector-1.1.3.tgz#8fba18d7419e5f818e712c4f82d83ee357610e61"
 
 svg-tags@^1.0.0:
   version "1.0.0"

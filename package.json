@@ -34,7 +34,6 @@
     "react-feather": "1.1.0",
     "react-helmet": "^5.2.0",
     "react-share": "^2.0.0",
-    "react-svg": "3.0.1",
     "react-twitter-widgets": "^1.7.1",
     "tachyons": "4.9.1"
   },
@@ -55,7 +54,9 @@
     "stylelint-config-standard": "^18.0.0",
     "write-good": "^0.11.3"
   },
-  "keywords": ["gatsby"],
+  "keywords": [
+    "gatsby"
+  ],
   "license": "MIT",
   "main": "n/a",
   "scripts": {
@@ -64,8 +65,7 @@
     "serve": "gatsby serve",
     "build": "gatsby build",
     "build:pp": "gatsby build --prefix-paths",
-    "build:gh":
-      "npm run clean && npm run build && gh-pages -b master -d public",
+    "build:gh": "npm run clean && npm run build && gh-pages -b master -d public",
     "deploy": "npm run build:gh",
     "clean": "rm -rf public && rm -rf .cache",
     "lint:js": "eslint --ext .js,.jsx .",
@@ -74,6 +74,8 @@
     "format:js": "prettier '**/*.{js,jsx}' --write"
   },
   "remarkConfig": {
-    "plugins": ["remark-preset-lint-recommended"]
+    "plugins": [
+      "remark-preset-lint-recommended"
+    ]
   }
 }
