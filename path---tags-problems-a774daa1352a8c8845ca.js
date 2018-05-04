@@ -1,2 +1,0 @@
-webpackJsonp([0xd6335572bf2d],{848:function(e,o){e.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{fields:{slug:"/blog-problem-series-knowledge-worker"},excerpt:"The Knowledge Worker’s Dilemma Today’s knowledge workers need to be thinking and working like artists. Artists do not gain inspiration and…",timeToRead:2,frontmatter:{title:"The Problem Series",tags:["knowledge","worker","problems"],cover:"",date:"2018-03-24"}}}]}},pathContext:{tag:"problems"}}}});
-//# sourceMappingURL=path---tags-problems-a774daa1352a8c8845ca.js.map
