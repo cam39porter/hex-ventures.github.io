@@ -1,0 +1,2 @@
+webpackJsonp([0xb70bc7ed2d0c],{826:function(e,t){e.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{fields:{slug:"/blog-hate-files-and-folders"},excerpt:"The Human Condition We humans forget, are lazy, and lose more information than we retain. This is not helped by the attention economy, which…",timeToRead:3,frontmatter:{title:"The Sad State of KMS",tags:["Management","Knowledge","Files","Folders","Organization"],cover:"",date:"2018-02-01"}}}]}},pathContext:{tag:"Folders"}}}});
+//# sourceMappingURL=path---tags-folders-659a2ad6b15dbe53bea9.js.map

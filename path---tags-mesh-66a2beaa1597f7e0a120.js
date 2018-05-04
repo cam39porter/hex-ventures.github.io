@@ -1,0 +1,2 @@
+webpackJsonp([43423918138038],{839:function(e,t){e.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{fields:{slug:"/blog-connection-trumps-protection"},excerpt:"Dinner Conversation I recently had dinner with some former colleagues, all of whom have been in both the financial and professional services…",timeToRead:3,frontmatter:{title:"The Mesh Lens",tags:["mesh","knowledge","sharing","ted"],cover:"",date:"2018-01-25"}}}]}},pathContext:{tag:"mesh"}}}});
+//# sourceMappingURL=path---tags-mesh-66a2beaa1597f7e0a120.js.map
