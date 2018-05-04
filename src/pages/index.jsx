@@ -41,7 +41,7 @@ class Home extends Component {
                 <div className={`f3 lh-copy dark-gray fw4 pb4`}>
                   Connect your dots.
                 </div>
-                <div className={`f3 lh-copy gray fw1 pb4`}>
+                <div className={`f3 lh-copy mid-gray fw1 pb4`}>
                   It's hard to know everything you know. Effortlessly surface
                   the connections between your thoughts with the power of
                   Tangle.
@@ -70,7 +70,7 @@ class Home extends Component {
           <div className={`w-100 pt6-l pt4`}>
             <div className={`measure-wide center`}>
               <div className={`ttu accent lh-copy pb4`}>what is it?</div>
-              <div className={`f4 fw2 gray lh-copy`}>
+              <div className={`f4 fw2 mid-gray lh-copy`}>
                 Tangle is your personal knowledge graph. Capture your thoughts,
                 jot down ideas, and import your notes from your favorite service
                 without worrying about how to organize them. Easily surface
@@ -89,7 +89,7 @@ class Home extends Component {
                 <div className={`f3 dark-gray fw4 pb4`}>
                   Stop organizing notes.
                 </div>
-                <div className={`f4 gray fw2`}>
+                <div className={`f4 mid-gray fw2`}>
                   Spend more time capturing thoughts and less time organizing
                   them.
                 </div>
@@ -125,7 +125,7 @@ class Home extends Component {
         <div className={`dt-row w-100`}>
           <div className={`w-100 pt6`}>
             <div className={`measure-wide center`}>
-              <div className={`f4 fw2 gray lh-copy pb4`}>
+              <div className={`f4 fw2 mid-gray lh-copy pb4`}>
                 Creativity is just connecting things. When you ask creative
                 people how they did something, they feel a little guilty because
                 they didn’t really do it, they just saw something. It seemed
@@ -331,7 +331,7 @@ class Home extends Component {
         <div className={`dt-row w-100`}>
           <div className={`w-100 pt6`}>
             <div className={`measure-wide center`}>
-              <div className={`f4 fw2 gray lh-copy pb4`}>
+              <div className={`f4 fw2 mid-gray lh-copy pb4`}>
                 The role of the imagination is to create new meanings and to
                 discover connections that, even if obvious, seem to escape
                 detection.
@@ -349,7 +349,7 @@ class Home extends Component {
                 <div className={`f3 dark-gray fw4 pb4`}>
                   Make your old thoughts new.
                 </div>
-                <div className={`f4 gray fw2`}>
+                <div className={`f4 mid-gray fw2`}>
                   Don’t let the great ideas you had a year ago slip through the
                   cracks again. Tangle sparks your creativity by automatically
                   connecting your current thinking to the past.
@@ -374,7 +374,7 @@ class Home extends Component {
         <div className={`dt-row w-100`}>
           <div className={`measure-wide center pv6`}>
             <div className={`ttu accent lh-copy pb4`}>Why build Tangle?</div>
-            <div className={`f4 fw2 gray lh-copy`}>
+            <div className={`f4 fw2 mid-gray lh-copy`}>
               Because we believe in empowering everyone to capture and connect
               thoughts to create big ideas.
             </div>
@@ -395,7 +395,7 @@ class Home extends Component {
         <div className={`dt-row w-100`}>
           <div className={`measure-wide center mv6`}>
             <div className={`ttu accent lh-copy pb4`}>PS.</div>
-            <div className={`f4 fw2 gray lh-copy`}>
+            <div className={`f4 fw2 mid-gray lh-copy`}>
               We know ownership of your data is important to you. Tangle will
               always allow you to export your data, no questions asked.
             </div>

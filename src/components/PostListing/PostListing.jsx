@@ -23,7 +23,12 @@ class PostListing extends React.Component {
     const postList = this.getPostList();
     return (
       <div className={`w-90 center`}>
-        <Alpha title={"The blog is just the beginning."} body={"If you enjoy what you see here, we bet you will love what we are building. Just click the button and not only will you be at the front of the line for exclusive access to Tangle, we will send you updates on our progress and new content."}/>
+        <Alpha
+          title={"The blog is just the beginning."}
+          body={
+            "If you enjoy what you see here, we bet you will love what we are building. Just click the button and not only will you be at the front of the line for exclusive access to Tangle, we will send you updates on our progress and new content."
+          }
+        />
         {/* List of Posts */
         postList.map((post, index) => (
           <div
@@ -40,10 +45,8 @@ class PostListing extends React.Component {
             </div>
 
             <div className={`f4 fw5 lh-copy dark-gray pb4`}>{post.title}</div>
-            <div className={`f6 fw3 lh-copy gray pb4`}>{post.excerpt}</div>
-            <div
-              className={`f7 absolute br4 bottom-0 right-0 moon-gray pv2 ph3`}
-            >
+            <div className={`f6 fw3 lh-copy mid-gray pb4`}>{post.excerpt}</div>
+            <div className={`f7 absolute br4 bottom-0 right-0 gray pv2 ph3`}>
               {post.date}
             </div>
           </div>
