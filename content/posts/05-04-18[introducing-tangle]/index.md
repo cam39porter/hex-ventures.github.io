@@ -31,7 +31,7 @@ The way we do knowledge management today is fragmented.
 
 Some transplant their knowledge into personal knowledge management tools like note-taking apps, some store it in their emails, and others keep it scattered in Moleskines across their desk. Others bottle it in their heads, surely suffering from leakage.
 
-The problem is that personal knowledge management tools are antiquated. Our note-taking software and even communication solutions mimic real-world stationary, folders, and filing cabinets. These structures are rigid and do not accurately reflect the connected way we think.
+The problem is that personal knowledge management tools are antiquated. Our note-taking software and even communication solutions mimic real-world stationery, folders, and filing cabinets. These structures are rigid and do not accurately reflect the connected way we think.
 
 The diversity of subject matter and know-how each of us has is at an all-time high, yet our existing tool suite has not paid the appropriate attention to build the bridges and tunnels meant to **connect** the disparate segments of our minds. Without applications that offer an information architecture that stimulates linkages, both obvious and hidden, the chance for the fusing of old ideas to form new, and the connectivity that begets creativity, will remain muted.
 
