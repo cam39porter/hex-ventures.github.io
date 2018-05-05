@@ -7,6 +7,7 @@ import "tachyons";
 import "./index.css";
 
 import NavigationBar from "../components/Navigation/NavigationBar";
+import Footer from "../components/Navigation/Footer";
 
 export default class MainLayout extends React.Component {
   getLocalTitle() {
@@ -55,6 +56,7 @@ export default class MainLayout extends React.Component {
           <NavigationBar />
         </div>
         {children()}
+        <Footer />
       </div>
     );
   }

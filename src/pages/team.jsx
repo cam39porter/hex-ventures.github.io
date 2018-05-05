@@ -54,9 +54,9 @@ class TeamPage extends Component {
             "We could not be more excited to share Tangle with you. We believe you will enjoy building your own tangle as much as we have."
           }
         />
-        <div className={`mw7 pt6 center`}>
+        <div className={`w-100 db mw7 pt6 center`}>
           {teamMembers.map(teamMember => (
-            <div key={teamMember.name} className={`fl w-100 w-50-l`}>
+            <div key={teamMember.name} className={`dib w-100 w-50-l`}>
               <Profile {...teamMember} />
             </div>
           ))}
