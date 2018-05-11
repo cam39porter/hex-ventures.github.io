@@ -47,7 +47,7 @@ PKM has garnered considerable interest in recent years as effaced by the many co
 
 There are five primary reasons for the new interest in the space:
 
-1. **Information overload.** As I described in the [last blog post](http://usetangle.com/blog-introducing-tangle), we are living in a world of ubiquitous content. We need a system to synthesize, store, combine, and transform this information into knowledge. 
+1. **Information overload.** We are living in a world of ubiquitous content. We need a system to synthesize, store, combine, and transform this information into knowledge. 
 
 2. **New Technology.** The advent of task management, note-taking, and mind-mapping software tools have subsequently made people interested in personal knowledge management and productivity practices. We believe, however, that there is still a long way to go until we truly come close to solving knowledge management in the Information Age.
 
