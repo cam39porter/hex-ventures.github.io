@@ -1,0 +1,2 @@
+webpackJsonp([34885552124715],{862:function(t,e){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{fields:{slug:"/blog-what-is-pkm"},excerpt:"Following up on our  Introduction to Tangle  last week, we felt it would be important to write a bit more about the space we are tackling…",timeToRead:6,frontmatter:{title:"The Knowledge Society and the Landmarks of Today",tags:["PKM","knowledge","productivity"],cover:"",date:"2018-05-11"}}}]}},pathContext:{tag:"productivity"}}}});
+//# sourceMappingURL=path---tags-productivity-0c429fa4519678186577.js.map

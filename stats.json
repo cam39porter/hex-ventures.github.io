@@ -24,6 +24,10 @@
       "path---blog-connection-trumps-protection-af9e50b09cbb60c95e64.js",
       "path---blog-connection-trumps-protection-af9e50b09cbb60c95e64.js.map"
     ],
+    "path---tags-productivity": [
+      "path---tags-productivity-0c429fa4519678186577.js",
+      "path---tags-productivity-0c429fa4519678186577.js.map"
+    ],
     "path---tags-explicit": [
       "path---tags-explicit-402faab5960d6ddc5936.js",
       "path---tags-explicit-402faab5960d6ddc5936.js.map"
@@ -57,8 +61,12 @@
       "path---blog-inputs-outputs-f6db157339d74e93bc29.js.map"
     ],
     "path---blog": [
-      "path---blog-88038015d4fe398dbf65.js",
-      "path---blog-88038015d4fe398dbf65.js.map"
+      "path---blog-9065cf80dbf604ecd2f4.js",
+      "path---blog-9065cf80dbf604ecd2f4.js.map"
+    ],
+    "path---tags-pkm": [
+      "path---tags-pkm-960ec9b7e54f39ed11b0.js",
+      "path---tags-pkm-960ec9b7e54f39ed11b0.js.map"
     ],
     "path---": [
       "path----557518bd178906f8d58a.js",
@@ -72,13 +80,17 @@
       "path---tags-capture-2c17f4389e0e3d75ec2b.js",
       "path---tags-capture-2c17f4389e0e3d75ec2b.js.map"
     ],
+    "path---categories-what-is-knowledge-management": [
+      "path---categories-what-is-knowledge-management-6bf9ad6523e0e10f06e9.js",
+      "path---categories-what-is-knowledge-management-6bf9ad6523e0e10f06e9.js.map"
+    ],
     "path---tags-actionable": [
       "path---tags-actionable-c04be3141bb9d27937b5.js",
       "path---tags-actionable-c04be3141bb9d27937b5.js.map"
     ],
     "component---src-layouts-index-jsx": [
-      "component---src-layouts-index-jsx-b9a9c202104173390483.js",
-      "component---src-layouts-index-jsx-b9a9c202104173390483.js.map"
+      "component---src-layouts-index-jsx-5597c7365fafc3ed8883.js",
+      "component---src-layouts-index-jsx-5597c7365fafc3ed8883.js.map"
     ],
     "path---tags-knowledge": [
       "path---tags-knowledge-01a83e4ed51ad03e8bef.js",
@@ -271,9 +283,9 @@
       "path---tags-inputs-7a378e5fd762ce2c7d97.js.map"
     ],
     "app": [
-      "app-e8ece87bf528cd846959.js",
+      "app-ca6e04e2c13b76c29eec.js",
       "build-js-styles.css",
-      "app-e8ece87bf528cd846959.js.map",
+      "app-ca6e04e2c13b76c29eec.js.map",
       "build-js-styles.css.map"
     ],
     "path---blog-team-principles": [
@@ -303,6 +315,10 @@
     "path---tags-memex": [
       "path---tags-memex-3c8f6e8cb5e882f7abc6.js",
       "path---tags-memex-3c8f6e8cb5e882f7abc6.js.map"
+    ],
+    "path---blog-what-is-pkm": [
+      "path---blog-what-is-pkm-4236fb36426a1202511b.js",
+      "path---blog-what-is-pkm-4236fb36426a1202511b.js.map"
     ],
     "path---blog-non-actionable-to-actionable-part-2": [
       "path---blog-non-actionable-to-actionable-part-2-8ef92d9430ae3b37edb4.js",
