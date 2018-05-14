@@ -75,7 +75,7 @@ He describes four core areas of personal knowledge management dimensions with wh
 
 Each of us approaches these four dimensions of how we work in different ways; our practices are influenced by our personalities, strengths and weaknesses, social factors, and our organization’s (if part of one) culture and context. The four domains are synthesized below:
 
-![kirby](https://storage.googleapis.com/usetangle-static-assets/blog/Untitled%20presentation.png)
+![kirby](https://storage.googleapis.com/usetangle-static-assets/blog/kirby.png)
 
 These four dimensions do not appear in isolation; they are contextual, combinatorial, and are enabled by our individual and social capacities. Moreover, our problem-solving competencies, and therefore PKM tendencies, are affected by a multitude of factors, including how novice or expert one is, as well as personality, internal motivation, and education. The ability for knowledge workers to develop relationships and find common interests and understandings is also important to how one operates within the grid.
 
