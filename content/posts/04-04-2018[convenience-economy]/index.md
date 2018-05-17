@@ -1,5 +1,5 @@
 ---
-category: "Insights and Ideas"
+category: "The Insight Area"
 cover: ""
 slug: '/blog/opportunity-cost-convenience-economy'
 date: '2018-04-06'

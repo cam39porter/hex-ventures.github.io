@@ -1,5 +1,5 @@
 ---
-category: "Insights and Ideas"
+category: "The Insight Area"
 cover: ""
 slug: '/blog/non-actionable-to-actionable-part-2'
 date: '2018-01-28'

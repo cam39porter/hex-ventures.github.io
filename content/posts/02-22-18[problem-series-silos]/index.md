@@ -1,5 +1,5 @@
 ---
-category: "Knowledge Management"
+category: "The KM Corner"
 cover: ""
 slug: '/blog/problem-series-silos'
 date: '2018-02-22'

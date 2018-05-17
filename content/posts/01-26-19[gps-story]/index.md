@@ -1,5 +1,5 @@
 ---
-category: "Insights and Ideas"
+category: "The Insight Area"
 cover: ""
 slug: '/blog/gps-story'
 date: '2018-01-27'

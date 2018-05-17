@@ -1,5 +1,5 @@
 ---
-category: "Tangle"
+category: "The Tangle Blog"
 cover: ""
 slug: '/blog/introducing-tangle'
 date: '2018-05-04'

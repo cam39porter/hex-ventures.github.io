@@ -1,5 +1,5 @@
 ---
-category: "Insights"
+category: "The Insight Area"
 cover: ""
 slug: '/blog/vannevar-bush-memex'
 date: '2018-03-09'

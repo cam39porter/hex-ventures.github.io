@@ -1,5 +1,5 @@
 ---
-category: "Knowledge Management"
+category: "The KM Corner"
 cover: ""
 slug: '/blog/what-is-pkm'
 date: '2018-05-11'

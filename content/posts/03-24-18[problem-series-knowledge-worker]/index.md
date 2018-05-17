@@ -1,5 +1,5 @@
 ---
-category: "Knowledge Management"
+category: "The KM Corner"
 cover: ""
 slug: '/blog/problem-series-knowledge-worker'
 date: '2018-03-24'

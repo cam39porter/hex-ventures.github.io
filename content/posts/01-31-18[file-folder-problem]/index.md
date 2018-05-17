@@ -1,5 +1,5 @@
 ---
-category: "Knowledge Management"
+category: "The KM Corner"
 cover: ""
 slug: '/blog/hate-files-and-folders'
 date: '2018-02-01'
