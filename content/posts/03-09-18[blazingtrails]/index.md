@@ -1,5 +1,5 @@
 ---
-category: "Before Tangle"
+category: "Insights"
 cover: ""
 slug: '/blog/vannevar-bush-memex'
 date: '2018-03-09'

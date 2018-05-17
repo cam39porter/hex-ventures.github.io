@@ -1,5 +1,5 @@
 ---
-category: "Before Tangle"
+category: "Insights and Ideas"
 cover: ""
 slug: '/blog/tacit-vs-explicit'
 date: '2018-02-08'

@@ -1,5 +1,5 @@
 ---
-category: "Before Tangle"
+category: "Insights and Ideas"
 cover: ""
 slug: '/blog/minshew-personal constitution'
 date: '2018-04-21'

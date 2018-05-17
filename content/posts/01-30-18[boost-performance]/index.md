@@ -1,5 +1,5 @@
 ---
-category: "Before Tangle"
+category: "Insights and Ideas"
 cover: ""
 slug: '/blog/boost-performance'
 date: '2018-01-30'

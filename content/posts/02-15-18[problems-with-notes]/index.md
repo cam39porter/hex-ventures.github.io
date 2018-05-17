@@ -1,9 +1,9 @@
 ---
-category: "Before Tangle"
+category: "Knowledge Management"
 cover: ""
 slug: '/blog/problem-series-notes'
 date: '2018-02-15'
-title: 'The Problem Series'
+title: 'The Problem with Note-Taking'
 subtitle: 'Note Taking'
 author: 'Myles McGinley'
 tags: ['Notes', 'Problem','Knowledge']

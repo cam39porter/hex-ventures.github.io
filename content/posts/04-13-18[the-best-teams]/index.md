@@ -1,5 +1,5 @@
 ---
-category: "Before Tangle"
+category: "Insights and Ideas"
 cover: ""
 slug: '/blog/team-principles'
 date: '2018-04-13'

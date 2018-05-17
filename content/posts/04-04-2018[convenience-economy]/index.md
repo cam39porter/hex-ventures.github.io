@@ -1,10 +1,10 @@
 ---
-category: "Before Tangle"
+category: "Insights and Ideas"
 cover: ""
 slug: '/blog/opportunity-cost-convenience-economy'
 date: '2018-04-06'
-title: 'Opportunity Cost'
-subtitle: 'A Framework for Modern Decision-Making'
+title: 'Opportunity Cost: A Framework for Modern Decision-Making'
+subtitle: ''
 author: 'Myles McGinley'
 tags: ['opportunity', 'cost', 'framework']
 ---

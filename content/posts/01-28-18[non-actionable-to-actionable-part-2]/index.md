@@ -1,15 +1,15 @@
 ---
-category: "Before Tangle"
+category: "Insights and Ideas"
 cover: ""
 slug: '/blog/non-actionable-to-actionable-part-2'
 date: '2018-01-28'
 title: 'Non-Actionable to Actionable'
 subtitle: 'Lessons From the Birth of the Global Positioning System (Part 2 of 2)'
 author: 'Myles McGinley'
-tags: ['GPS', 'innovation', 'actionable', 'sharing']
+tags: ['innovation', 'actionable', 'sharing']
 ---
 
-In [my last post](https://hex-ventures.github.io/hex-ventures/blog/gps-story), I recounted the story of how Will Guier and George Weiffenbach’s discussion at lunch turned into GPS technology. I ended the story by raising a series of questions regarding the opportunity for companies to use elements from this story in their own organization. Here they are along with actionable insights for taking these principles into your company or organization.
+In [my last post](https://usetangle.com/blog-gps-story), I recounted the story of how Will Guier and George Weiffenbach’s discussion at lunch turned into GPS technology. I ended the story by raising a series of questions regarding the opportunity for companies to use elements from this story in their own organization. Here they are along with actionable insights for taking these principles into your company or organization.
 
 #### How can we implement themes from this story to spur innovation at every level in an enterprise?
 
@@ -17,7 +17,7 @@ Spontaneous collaboration can turn interesting ideas into tangible outcomes that
 
 1. Company as platform: The word “platform” gets thrown around a lot, but I truly believe that companies ought to design themselves as launching pads - platforms from which employees can initiate ideas, take risks, support others, fall down, get back up and ultimately, succeed. Will and George used the APL as their own launching pad to bring a an idea from side-project to technological breakthrough.
 
-2. Connect, not protect: I have written previously about how companies can use Lisa Gansky’s concept of [mesh](https://hex-ventures.github.io/hex-ventures/blog/connection-trumps-protection) as a principle around which they organize. Creating a robust support network at a company is vital to positive idea generation and smart risk-taking. WIll and George certainly would not have achieved what they did without the help of other smart scientists, engineers, students and teachers that were working at the APL as well.
+2. Connect, not protect: I have written previously about how companies can use Lisa Gansky’s concept of [mesh](https://usetangle.com/blog-connection-trumps-protection) as a principle around which they organize. Creating a robust support network at a company is vital to positive idea generation and smart risk-taking. WIll and George certainly would not have achieved what they did without the help of other smart scientists, engineers, students and teachers that were working at the APL as well.
 
 3. Investing in your people: time is money and money is time. Investing both in your employees and tools to help them achieve their goals will help a company achieve its own goals.
 

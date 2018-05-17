@@ -1,5 +1,5 @@
 ---
-category: "What is Knowledge Management?"
+category: "Knowledge Management"
 cover: ""
 slug: '/blog/what-is-pkm'
 date: '2018-05-11'

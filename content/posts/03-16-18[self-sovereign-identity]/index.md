@@ -1,9 +1,10 @@
 ---
-
+category: "Insights and Ideas"
+cover: ""
 path: '/blog/identity'
 date: '2018-03-17'
-title: 'It Would Be Cool If'
-subtitle: 'I Controlled My Digital Identity'
+title: 'Sovereign Identity'
+subtitle: ''
 author: 'Myles McGinley'
 tags: ['self-sovereign', 'identity', 'blockchain']
 ---

@@ -1,10 +1,10 @@
 ---
-category: "Before Tangle"
+category: "Insights and Ideas"
 cover: ""
 slug: '/blog/modern-reflection'
 date: '2018-03-30'
-title: 'Reflection'
-subtitle: 'The Modern Day Version'
+title: 'Reflection: The Modern Day Version'
+subtitle: ''
 author: 'Greg Nowak'
 tags: ['reflection', 'machine-learning']
 ---

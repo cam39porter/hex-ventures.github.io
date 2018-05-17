@@ -1,5 +1,5 @@
 ---
-category: "Before Tangle"
+category: "Insights and Ideas"
 cover: ""
 slug: '/blog/connection-trumps-protection'
 date: '2018-01-25'

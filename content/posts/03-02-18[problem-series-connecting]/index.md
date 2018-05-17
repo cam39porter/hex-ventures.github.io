@@ -1,15 +1,15 @@
 ---
-category: "Before Tangle"
+category: "Knowledge Management"
 cover: ""
 slug: '/blog/problem-series-habit-reflect-connect'
 date: '2018-03-02'
-title: 'The Problem Series'
+title: 'The Problem with Note-taking: Reflection'
 subtitle: 'The Habit of Reflection'
 author: 'Myles McGinley'
 tags: ['Notes', 'Problem', 'Reflection', 'Connection']
 ---
 
-In our last [Problem Series post](https://hex-ventures.github.io/hex-ventures/blog/problem-series-silos), we discussed the problems with linear thought silos and why they make connecting the dots between notes so difficult. In this week's blog post, we build on this narrative to explore why the current state of note-taking applications make forming the habit of reflection so hard.
+In our last [Problem Series post](https://usetangle.com/blog-problem-series-silos), we discussed the problems with linear thought silos and why they make connecting the dots between notes so difficult. In this week's blog post, we build on this narrative to explore why the current state of note-taking applications make forming the habit of reflection so hard.
 
 ## What the heck does _reflection_ mean?
 

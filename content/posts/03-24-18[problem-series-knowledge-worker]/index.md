@@ -1,10 +1,10 @@
 ---
-category: "Before Tangle"
+category: "Knowledge Management"
 cover: ""
 slug: '/blog/problem-series-knowledge-worker'
 date: '2018-03-24'
-title: 'The Problem Series'
-subtitle: 'The Knowledge Workers Dilemma'
+title: 'The Knowledge Workers Dilemma'
+subtitle: ''
 author: 'Myles McGinley'
 tags: ['knowledge', 'worker', 'problems']
 ---

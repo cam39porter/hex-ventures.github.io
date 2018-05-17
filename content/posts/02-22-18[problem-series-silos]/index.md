@@ -1,15 +1,15 @@
 ---
-category: "Before Tangle"
+category: "Knowledge Management"
 cover: ""
 slug: '/blog/problem-series-silos'
 date: '2018-02-22'
-title: 'The Problem Series'
+title: 'The Problem with Note-taking: Linearity'
 subtitle: 'Linear Thought Silos'
 author: 'Myles McGinley'
 tags: ['Notes', 'Problem', 'Silos', 'Apps']
 ---
 
-In our first [Problem Series](https://hex-ventures.github.io/hex-ventures/blog/problem-series-notes) post, we used Cameron-types and Myles-types as foils to discuss the three core issues with the state of note-taking today:
+In our first [Problem Series](https://usetangle.com/blog-problem-series-notes) post, we used Cameron-types and Myles-types as foils to discuss the three core issues with the state of note-taking today:
 
 1. **Notes are siloed**
 
