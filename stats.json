@@ -1,8 +1,12 @@
 {
   "assetsByChunkName": {
     "path---tags-reflection": [
-      "path---tags-reflection-4cbe2ab4336ca872bc1b.js",
-      "path---tags-reflection-4cbe2ab4336ca872bc1b.js.map"
+      "path---tags-reflection-7e6e0ecdd604c62acf65.js",
+      "path---tags-reflection-7e6e0ecdd604c62acf65.js.map"
+    ],
+    "path---blog-tools-of-the-trade": [
+      "path---blog-tools-of-the-trade-47a2861f66bc6499ef9e.js",
+      "path---blog-tools-of-the-trade-47a2861f66bc6499ef9e.js.map"
     ],
     "path---tags-principles": [
       "path---tags-principles-5fb5e41bd5a09130d2a4.js",
@@ -17,12 +21,12 @@
       "path---tags-storage-43f183cad67f42dd32a9.js.map"
     ],
     "path---blog-minshew-personal-constitution": [
-      "path---blog-minshew-personal-constitution-b2a260ee357566d2a078.js",
-      "path---blog-minshew-personal-constitution-b2a260ee357566d2a078.js.map"
+      "path---blog-minshew-personal-constitution-5ebedb16532a7aa76e19.js",
+      "path---blog-minshew-personal-constitution-5ebedb16532a7aa76e19.js.map"
     ],
     "path---blog-connection-trumps-protection": [
-      "path---blog-connection-trumps-protection-af9e50b09cbb60c95e64.js",
-      "path---blog-connection-trumps-protection-af9e50b09cbb60c95e64.js.map"
+      "path---blog-connection-trumps-protection-fe1655325cce51d6c694.js",
+      "path---blog-connection-trumps-protection-fe1655325cce51d6c694.js.map"
     ],
     "path---tags-productivity": [
       "path---tags-productivity-0c429fa4519678186577.js",
@@ -41,28 +45,28 @@
       "path---tags-ted-60c376a237cb406adedc.js.map"
     ],
     "path---blog-introducing-tangle": [
-      "path---blog-introducing-tangle-cbb2fb0d5e85332f6a74.js",
-      "path---blog-introducing-tangle-cbb2fb0d5e85332f6a74.js.map"
+      "path---blog-introducing-tangle-8d24ff4aba33316af05a.js",
+      "path---blog-introducing-tangle-8d24ff4aba33316af05a.js.map"
     ],
     "path---tags-mesh": [
       "path---tags-mesh-66a2beaa1597f7e0a120.js",
       "path---tags-mesh-66a2beaa1597f7e0a120.js.map"
     ],
     "path---tags-innovation": [
-      "path---tags-innovation-13a29ea0063f530822c4.js",
-      "path---tags-innovation-13a29ea0063f530822c4.js.map"
+      "path---tags-innovation-ecc5874f738411ac7b3d.js",
+      "path---tags-innovation-ecc5874f738411ac7b3d.js.map"
     ],
     "path---tags-team": [
       "path---tags-team-7896e264f1d7c44023e8.js",
       "path---tags-team-7896e264f1d7c44023e8.js.map"
     ],
     "path---blog-inputs-outputs": [
-      "path---blog-inputs-outputs-f6db157339d74e93bc29.js",
-      "path---blog-inputs-outputs-f6db157339d74e93bc29.js.map"
+      "path---blog-inputs-outputs-ce17992d9990f729a999.js",
+      "path---blog-inputs-outputs-ce17992d9990f729a999.js.map"
     ],
     "path---blog": [
-      "path---blog-9065cf80dbf604ecd2f4.js",
-      "path---blog-9065cf80dbf604ecd2f4.js.map"
+      "path---blog-386752d228401eb6a19f.js",
+      "path---blog-386752d228401eb6a19f.js.map"
     ],
     "path---tags-pkm": [
       "path---tags-pkm-960ec9b7e54f39ed11b0.js",
@@ -72,29 +76,25 @@
       "path----557518bd178906f8d58a.js",
       "path----557518bd178906f8d58a.js.map"
     ],
-    "path---tags-files": [
-      "path---tags-files-3227e01216601a16f96a.js",
-      "path---tags-files-3227e01216601a16f96a.js.map"
+    "path---categories-the-insight-area": [
+      "path---categories-the-insight-area-f9844d396dc70fdd8097.js",
+      "path---categories-the-insight-area-f9844d396dc70fdd8097.js.map"
     ],
     "path---tags-capture": [
       "path---tags-capture-2c17f4389e0e3d75ec2b.js",
       "path---tags-capture-2c17f4389e0e3d75ec2b.js.map"
     ],
-    "path---categories-what-is-knowledge-management": [
-      "path---categories-what-is-knowledge-management-6bf9ad6523e0e10f06e9.js",
-      "path---categories-what-is-knowledge-management-6bf9ad6523e0e10f06e9.js.map"
-    ],
     "path---tags-actionable": [
-      "path---tags-actionable-c04be3141bb9d27937b5.js",
-      "path---tags-actionable-c04be3141bb9d27937b5.js.map"
+      "path---tags-actionable-eaaa15405aad09bd8dbe.js",
+      "path---tags-actionable-eaaa15405aad09bd8dbe.js.map"
     ],
     "component---src-layouts-index-jsx": [
       "component---src-layouts-index-jsx-5597c7365fafc3ed8883.js",
       "component---src-layouts-index-jsx-5597c7365fafc3ed8883.js.map"
     ],
     "path---tags-knowledge": [
-      "path---tags-knowledge-01a83e4ed51ad03e8bef.js",
-      "path---tags-knowledge-01a83e4ed51ad03e8bef.js.map"
+      "path---tags-knowledge-6da9d9d6f985e1a6adbd.js",
+      "path---tags-knowledge-6da9d9d6f985e1a6adbd.js.map"
     ],
     "path---tags-performance": [
       "path---tags-performance-6ec03f14f16dcf625469.js",
@@ -105,20 +105,20 @@
       "path---tags-tacit-b22a9766dc8f7fc3544e.js.map"
     ],
     "path---tags-problem": [
-      "path---tags-problem-8ea73b706ffa14897166.js",
-      "path---tags-problem-8ea73b706ffa14897166.js.map"
+      "path---tags-problem-3de378641ab1fe058a14.js",
+      "path---tags-problem-3de378641ab1fe058a14.js.map"
     ],
     "path---tags-framework": [
-      "path---tags-framework-7e032bfeaa7793788941.js",
-      "path---tags-framework-7e032bfeaa7793788941.js.map"
+      "path---tags-framework-2ae9f21009b95250a6ec.js",
+      "path---tags-framework-2ae9f21009b95250a6ec.js.map"
     ],
     "path---tags-worker": [
-      "path---tags-worker-3d9997d38e62cf6aa6f9.js",
-      "path---tags-worker-3d9997d38e62cf6aa6f9.js.map"
+      "path---tags-worker-e34832cde0b35ae684f0.js",
+      "path---tags-worker-e34832cde0b35ae684f0.js.map"
     ],
     "path---tags-management": [
-      "path---tags-management-5b9b394519e38902e2f8.js",
-      "path---tags-management-5b9b394519e38902e2f8.js.map"
+      "path---tags-management-cffc1cb161cdb72636d5.js",
+      "path---tags-management-cffc1cb161cdb72636d5.js.map"
     ],
     "component---node-modules-gatsby-plugin-offline-app-shell-js": [
       "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js",
@@ -133,44 +133,44 @@
       "path---tags-memory-301ce4ec9ba28c9b694a.js.map"
     ],
     "path---blog-vannevar-bush-memex": [
-      "path---blog-vannevar-bush-memex-4012a0c4f35b03b32a00.js",
-      "path---blog-vannevar-bush-memex-4012a0c4f35b03b32a00.js.map"
+      "path---blog-vannevar-bush-memex-58075cfe2e84a075526e.js",
+      "path---blog-vannevar-bush-memex-58075cfe2e84a075526e.js.map"
     ],
     "path---tags-growth": [
       "path---tags-growth-949fe5f8d60104b3549a.js",
       "path---tags-growth-949fe5f8d60104b3549a.js.map"
     ],
     "path---blog-gps-story": [
-      "path---blog-gps-story-3b0455be2b7058081670.js",
-      "path---blog-gps-story-3b0455be2b7058081670.js.map"
-    ],
-    "path---categories-before-tangle": [
-      "path---categories-before-tangle-96855ccb60a14218e5f5.js",
-      "path---categories-before-tangle-96855ccb60a14218e5f5.js.map"
+      "path---blog-gps-story-7846f63bd8ca7eeeba58.js",
+      "path---blog-gps-story-7846f63bd8ca7eeeba58.js.map"
     ],
     "path---tags-identity": [
-      "path---tags-identity-f2b7eaa994d37c8d20d2.js",
-      "path---tags-identity-f2b7eaa994d37c8d20d2.js.map"
+      "path---tags-identity-b8193cae4d39483c1253.js",
+      "path---tags-identity-b8193cae4d39483c1253.js.map"
     ],
     "path---tags-connect": [
       "path---tags-connect-7b92b80efa4d6e7cfd4b.js",
       "path---tags-connect-7b92b80efa4d6e7cfd4b.js.map"
     ],
     "path---blog-capturing-micro-insights": [
-      "path---blog-capturing-micro-insights-8e0f2acb95990f20a1e5.js",
-      "path---blog-capturing-micro-insights-8e0f2acb95990f20a1e5.js.map"
+      "path---blog-capturing-micro-insights-20f824eb25ec7af0dab2.js",
+      "path---blog-capturing-micro-insights-20f824eb25ec7af0dab2.js.map"
     ],
     "path---tags-blockchain": [
-      "path---tags-blockchain-99795e4e3fd4778b8142.js",
-      "path---tags-blockchain-99795e4e3fd4778b8142.js.map"
+      "path---tags-blockchain-ea2292f69f2174a3513b.js",
+      "path---tags-blockchain-ea2292f69f2174a3513b.js.map"
     ],
     "path---blog-problem-series-knowledge-worker": [
-      "path---blog-problem-series-knowledge-worker-177cfd5d7fcc67f62635.js",
-      "path---blog-problem-series-knowledge-worker-177cfd5d7fcc67f62635.js.map"
+      "path---blog-problem-series-knowledge-worker-299f31bfa5e298d41bd1.js",
+      "path---blog-problem-series-knowledge-worker-299f31bfa5e298d41bd1.js.map"
     ],
     "component---src-templates-category-jsx": [
       "component---src-templates-category-jsx-40f0b0a1d6a1f4d916f8.js",
       "component---src-templates-category-jsx-40f0b0a1d6a1f4d916f8.js.map"
+    ],
+    "path---categories-the-tangle-blog": [
+      "path---categories-the-tangle-blog-17cf14693f3e621589c7.js",
+      "path---categories-the-tangle-blog-17cf14693f3e621589c7.js.map"
     ],
     "path---index": [
       "path---index-a0e39f21c11f6a62c5ab.js",
@@ -181,28 +181,28 @@
       "path---tags-brain-060ea838a03895d670b1.js.map"
     ],
     "path---blog-opportunity-cost-convenience-economy": [
-      "path---blog-opportunity-cost-convenience-economy-a3c1e493d0ceafabe3d5.js",
-      "path---blog-opportunity-cost-convenience-economy-a3c1e493d0ceafabe3d5.js.map"
+      "path---blog-opportunity-cost-convenience-economy-c5fc4b3e5c5f66a73d8f.js",
+      "path---blog-opportunity-cost-convenience-economy-c5fc4b3e5c5f66a73d8f.js.map"
     ],
     "path---tags-constitution": [
       "path---tags-constitution-1fe503c8d09a9f180865.js",
       "path---tags-constitution-1fe503c8d09a9f180865.js.map"
     ],
     "path---tags-connection": [
-      "path---tags-connection-ec2ed61772efd710bf61.js",
-      "path---tags-connection-ec2ed61772efd710bf61.js.map"
+      "path---tags-connection-41fd455b1ee1b2cd60dc.js",
+      "path---tags-connection-41fd455b1ee1b2cd60dc.js.map"
     ],
     "path---tags-self-sovereign": [
-      "path---tags-self-sovereign-30b9f6e0bfb7d2ce5019.js",
-      "path---tags-self-sovereign-30b9f6e0bfb7d2ce5019.js.map"
+      "path---tags-self-sovereign-2898a777e0dace4a4ecc.js",
+      "path---tags-self-sovereign-2898a777e0dace4a4ecc.js.map"
+    ],
+    "path---tags-files-folders": [
+      "path---tags-files-folders-471165aa2dea0c8730b4.js",
+      "path---tags-files-folders-471165aa2dea0c8730b4.js.map"
     ],
     "path---blog-modern-reflection": [
-      "path---blog-modern-reflection-da0f3f259badb815bf97.js",
-      "path---blog-modern-reflection-da0f3f259badb815bf97.js.map"
-    ],
-    "path---categories-tangle": [
-      "path---categories-tangle-6d43315242b0ee4c87c5.js",
-      "path---categories-tangle-6d43315242b0ee4c87c5.js.map"
+      "path---blog-modern-reflection-a27c9e171773df7904fe.js",
+      "path---blog-modern-reflection-a27c9e171773df7904fe.js.map"
     ],
     "path---tags-notes": [
       "path---tags-notes-0885678913e2962a7020.js",
@@ -215,12 +215,16 @@
       "build-js-styles.css.map"
     ],
     "path---tags-opportunity": [
-      "path---tags-opportunity-ae49ce546f9a8a0f86de.js",
-      "path---tags-opportunity-ae49ce546f9a8a0f86de.js.map"
+      "path---tags-opportunity-bf5a2192cdaeb93d0b96.js",
+      "path---tags-opportunity-bf5a2192cdaeb93d0b96.js.map"
     ],
     "path---tags-minshew": [
       "path---tags-minshew-fd6638db26e4bf3846ce.js",
       "path---tags-minshew-fd6638db26e4bf3846ce.js.map"
+    ],
+    "path---tags-tools": [
+      "path---tags-tools-c3ba7e24806db8316830.js",
+      "path---tags-tools-c3ba7e24806db8316830.js.map"
     ],
     "component---src-templates-tag-jsx": [
       "component---src-templates-tag-jsx-5eab4a97742afbba800a.js",
@@ -235,12 +239,12 @@
       "component---src-pages-blog-jsx-aa7b54460653d0125ddc.js.map"
     ],
     "path---tags-cost": [
-      "path---tags-cost-7eea2b2aaba58ba3916a.js",
-      "path---tags-cost-7eea2b2aaba58ba3916a.js.map"
+      "path---tags-cost-73a948fb35a174751bea.js",
+      "path---tags-cost-73a948fb35a174751bea.js.map"
     ],
     "path---blog-tacit-vs-explicit": [
-      "path---blog-tacit-vs-explicit-0abf48ee1556443c3661.js",
-      "path---blog-tacit-vs-explicit-0abf48ee1556443c3661.js.map"
+      "path---blog-tacit-vs-explicit-0f6ad78e012bd1be1cca.js",
+      "path---blog-tacit-vs-explicit-0f6ad78e012bd1be1cca.js.map"
     ],
     "path---tags-trails": [
       "path---tags-trails-49dbefc5cfb08121111d.js",
@@ -250,17 +254,13 @@
       "path---team-a0e39f21c11f6a62c5ab.js",
       "path---team-a0e39f21c11f6a62c5ab.js.map"
     ],
-    "path---tags-folders": [
-      "path---tags-folders-659a2ad6b15dbe53bea9.js",
-      "path---tags-folders-659a2ad6b15dbe53bea9.js.map"
-    ],
     "path---tags-outputs": [
-      "path---tags-outputs-861330a0c86a3893786d.js",
-      "path---tags-outputs-861330a0c86a3893786d.js.map"
+      "path---tags-outputs-136fd8d0a18f50e09f95.js",
+      "path---tags-outputs-136fd8d0a18f50e09f95.js.map"
     ],
     "path---blog-problem-series-notes": [
-      "path---blog-problem-series-notes-c5884f808fab91b94144.js",
-      "path---blog-problem-series-notes-c5884f808fab91b94144.js.map"
+      "path---blog-problem-series-notes-b7e1990dd0474d092f6b.js",
+      "path---blog-problem-series-notes-b7e1990dd0474d092f6b.js.map"
     ],
     "path---offline-plugin-app-shell-fallback": [
       "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js",
@@ -275,82 +275,82 @@
       "component---src-pages-index-jsx-4d631d0daf722a00122e.js.map"
     ],
     "path---tags-silos": [
-      "path---tags-silos-99b7cbf338254a0bab0b.js",
-      "path---tags-silos-99b7cbf338254a0bab0b.js.map"
+      "path---tags-silos-8d2d926f90a4e172544c.js",
+      "path---tags-silos-8d2d926f90a4e172544c.js.map"
     ],
     "path---tags-inputs": [
-      "path---tags-inputs-7a378e5fd762ce2c7d97.js",
-      "path---tags-inputs-7a378e5fd762ce2c7d97.js.map"
+      "path---tags-inputs-6ad53e45ee9dba728117.js",
+      "path---tags-inputs-6ad53e45ee9dba728117.js.map"
     ],
     "app": [
-      "app-bc39456ea947e506ad87.js",
+      "app-4d85fea514a2604b60df.js",
       "build-js-styles.css",
-      "app-bc39456ea947e506ad87.js.map",
+      "app-4d85fea514a2604b60df.js.map",
       "build-js-styles.css.map"
     ],
     "path---blog-team-principles": [
-      "path---blog-team-principles-9d86a10ffa4255089764.js",
-      "path---blog-team-principles-9d86a10ffa4255089764.js.map"
+      "path---blog-team-principles-8fe4272b1c74915b215f.js",
+      "path---blog-team-principles-8fe4272b1c74915b215f.js.map"
     ],
     "path---tags-problems": [
-      "path---tags-problems-c44dec6881bc536fb890.js",
-      "path---tags-problems-c44dec6881bc536fb890.js.map"
+      "path---tags-problems-a0e1c8af3110f22e6e33.js",
+      "path---tags-problems-a0e1c8af3110f22e6e33.js.map"
     ],
     "path---blog-problem-series-silos": [
-      "path---blog-problem-series-silos-b0cbc1df57e6cce28be1.js",
-      "path---blog-problem-series-silos-b0cbc1df57e6cce28be1.js.map"
+      "path---blog-problem-series-silos-2be00bfaa0f4563bc123.js",
+      "path---blog-problem-series-silos-2be00bfaa0f4563bc123.js.map"
     ],
     "path---tags-apps": [
-      "path---tags-apps-ab3da81b401944ee071d.js",
-      "path---tags-apps-ab3da81b401944ee071d.js.map"
+      "path---tags-apps-3673baacd048cb569f49.js",
+      "path---tags-apps-3673baacd048cb569f49.js.map"
     ],
     "path---blog-problem-series-habit-reflect-connect": [
-      "path---blog-problem-series-habit-reflect-connect-b9d2408fa314c7fa4530.js",
-      "path---blog-problem-series-habit-reflect-connect-b9d2408fa314c7fa4530.js.map"
+      "path---blog-problem-series-habit-reflect-connect-fd4cbeb334ad71364948.js",
+      "path---blog-problem-series-habit-reflect-connect-fd4cbeb334ad71364948.js.map"
+    ],
+    "path---categories-the-km-corner": [
+      "path---categories-the-km-corner-34d6576e91e2e7a2dea1.js",
+      "path---categories-the-km-corner-34d6576e91e2e7a2dea1.js.map"
     ],
     "path---tags-machine-learning": [
-      "path---tags-machine-learning-83666930a46f99f8b10c.js",
-      "path---tags-machine-learning-83666930a46f99f8b10c.js.map"
+      "path---tags-machine-learning-a1c4eef269f31a19278e.js",
+      "path---tags-machine-learning-a1c4eef269f31a19278e.js.map"
     ],
     "path---tags-memex": [
       "path---tags-memex-3c8f6e8cb5e882f7abc6.js",
       "path---tags-memex-3c8f6e8cb5e882f7abc6.js.map"
     ],
     "path---blog-what-is-pkm": [
-      "path---blog-what-is-pkm-49d2b63ff533a767ce61.js",
-      "path---blog-what-is-pkm-49d2b63ff533a767ce61.js.map"
+      "path---blog-what-is-pkm-ae302585dbb5be3b6703.js",
+      "path---blog-what-is-pkm-ae302585dbb5be3b6703.js.map"
     ],
     "path---blog-non-actionable-to-actionable-part-2": [
-      "path---blog-non-actionable-to-actionable-part-2-8ef92d9430ae3b37edb4.js",
-      "path---blog-non-actionable-to-actionable-part-2-8ef92d9430ae3b37edb4.js.map"
-    ],
-    "path---it-would-be-cool-if": [
-      "path---it-would-be-cool-if-c5e24eb5a1e83c3dcca9.js",
-      "path---it-would-be-cool-if-c5e24eb5a1e83c3dcca9.js.map"
+      "path---blog-non-actionable-to-actionable-part-2-6029d27e9e3ee0a74902.js",
+      "path---blog-non-actionable-to-actionable-part-2-6029d27e9e3ee0a74902.js.map"
     ],
     "path---blog-hate-files-and-folders": [
-      "path---blog-hate-files-and-folders-8daf726d6b70dab6eb6c.js",
-      "path---blog-hate-files-and-folders-8daf726d6b70dab6eb6c.js.map"
+      "path---blog-hate-files-and-folders-1f804a5b5d4c3ec0ee49.js",
+      "path---blog-hate-files-and-folders-1f804a5b5d4c3ec0ee49.js.map"
     ],
     "path---tags-sharing": [
-      "path---tags-sharing-c539f4fdcf3d27456d95.js",
-      "path---tags-sharing-c539f4fdcf3d27456d95.js.map"
-    ],
-    "path---tags-organization": [
-      "path---tags-organization-7fa0bd307b56728b6585.js",
-      "path---tags-organization-7fa0bd307b56728b6585.js.map"
+      "path---tags-sharing-2ef76caae3b119bebce0.js",
+      "path---tags-sharing-2ef76caae3b119bebce0.js.map"
     ],
     "path---blog-boost-performance": [
-      "path---blog-boost-performance-e1362f41d3aeed753d85.js",
-      "path---blog-boost-performance-e1362f41d3aeed753d85.js.map"
+      "path---blog-boost-performance-057201a89dc21224e09a.js",
+      "path---blog-boost-performance-057201a89dc21224e09a.js.map"
     ],
     "path---tags-gps": [
-      "path---tags-gps-fd436aef6107e5bb93fe.js",
-      "path---tags-gps-fd436aef6107e5bb93fe.js.map"
+      "path---tags-gps-bfef11d347bac9dc08df.js",
+      "path---tags-gps-bfef11d347bac9dc08df.js.map"
     ],
     "path---tags-building": [
       "path---tags-building-c58b749efa5cf307e946.js",
       "path---tags-building-c58b749efa5cf307e946.js.map"
+    ],
+    "path---sovereign-identity": [
+      "path---sovereign-identity-7f0bf0e0b5b7a7a6dfce.js",
+      "path---sovereign-identity-7f0bf0e0b5b7a7a6dfce.js.map"
     ]
   }
 }

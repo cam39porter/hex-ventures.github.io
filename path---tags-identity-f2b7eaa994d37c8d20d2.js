@@ -1,2 +1,0 @@
-webpackJsonp([0x6fa714a5514f],{842:function(e,t){e.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{fields:{slug:"/it-would-be-cool-if"},excerpt:"The It Would Be Cool If Series This week I am starting a new series called “it would be cool if  _ _ _ .” This series is going to be mainly…",timeToRead:4,frontmatter:{title:"It Would Be Cool If",tags:["self-sovereign","identity","blockchain"],cover:null,date:"2018-03-17"}}}]}},pathContext:{tag:"identity"}}}});
-//# sourceMappingURL=path---tags-identity-f2b7eaa994d37c8d20d2.js.map
