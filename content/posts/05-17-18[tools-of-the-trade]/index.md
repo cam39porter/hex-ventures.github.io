@@ -27,19 +27,19 @@ The users of these products are demanding more too. Go to the forums for many of
 
 One design element that you can find in almost any personal knowledge management tool is skeuomorphism. Skeuomorphic design takes cues from the real-world and is themed to be reminiscent of a more physical experience. Look no further than Google Keep, Evernote, or OneNote and you will see the digital manifestation of the physical; a pixelated sticky note, tabular binder, or notebook. 
 
-Skeuomorphic design has a bunch of benefits. It is fun, makes the user interface tactile, and accessible. It provides the user with an intuition about how the underlying system works; if a user writes notes in a file, she will probably know to save it in a folder. Easy and user-friendly. 
+Skeuomorphic design does have its benefits. It is fun, makes the user interface tactile, and is accessible. It provides the user with an intuition about how the underlying system works; if a user writes notes in a file, she will probably know to save it in a folder. Easy and user-friendly. 
 
-However, skeuomorphism also presents challenges. By transplanting physical designs onto the screen, we aren’t necessarily optimizing for a digital, technological environment, but rather for familiarity. Making an interface friendly and user experience delightful are aspirations for which technologists ought to strive, but design should be executed to empower the end user, not in the name of the technology. 
+However, skeuomorphism also presents challenges. By transplanting physical designs onto the screen, we aren’t necessarily optimizing for a digital environment, but rather for familiarity. Making an interface friendly and the user experience delightful are aspirations for which technologists ought to strive, but design should be executed to empower the end user, not in the name of the technology. 
 
-We feel this distinction is incredibly important and has been missed by many within the PKM space. What is the goal at hand? What is the point of a note-taking tool? We believe the answer should be an external system that helps the user be more prepared, innovative, and creative. A legal pad certainly helps in the physical realm, but it’s also limited by the very realm it is meant for; why chain ourselves to desk artifact UX and UI design? 
+We feel this distinction is incredibly important and has been missed by many within the PKM space. What is the goal at hand? What is the point of a note-taking tool? We believe the answer should be an external system that helps the user be more prepared, innovative, and creative. A legal pad certainly helps in the physical realm, but it’s also limited by the very domain it is meant for; why chain ourselves to desk artifact UX and UI design? 
 
-*Linear organization*
+### *Linear organization*
 
 In fact, the skeuomorphic design that has widely dominated PKM tools, particularly of the note-taking variety, has been a primary contributor to UX principles that, we believe, move the technologies further away from their goal.
 
 The principle to which I am referring is **linear organization.**
 
-In PKM tools, users are forced to organize the content they produce in order to make the information useful. The onus is on the user to know where that input should go. This is rather self-defeating: by siloing a thought, information, or notes in a named folder, that input has no opportunity to connect or socialize with anything that may be related. This leaves the responsibility on the user to remember what other content they have that is related to what they are thinking about now. Humans, unfortunately, aren’t great at remembering.
+Users are forced to organize the content they produce within PKM tools in order to make the information useful. The onus is on the user to know where that input should go. This is rather self-defeating: by siloing a thought, information, or notes in a named folder, that input has no opportunity to connect or socialize with anything that may be related to it. This leaves the responsibility on the user to remember what other content they have that is related to what they are thinking about now. Humans, unfortunately, aren’t great at remembering.
 
 Because of the organizational responsibility on the user, most PKM tools necessarily present the output linearly, or in lists. Files are in lists, which are in notebooks, which are in folders, which are also listed in other folders and so on. Listing thoughts out chronologically or alphabetically can be useful, but it is impossible to build a true “second brain” without visually emphasizing the relevant connections between the thoughts the user has plucked from their head.
 
@@ -57,6 +57,6 @@ Mind-mapping tools are the only group that fits above the x-axis. They allow the
 
 ### *Tangle*
 
-You will notice that the Tangle logo rests rather lonely in the top-right quadrant. That is because we are doing things slightly differently. We are creating a tool that mirrors how we think and, while easy to use, stays away from skeuomorphic paradigms and linear organization. Instead, Tangle grants connectivity first-class citizenship. Instead of making the user responsible for organizing their content into linear hierarchies, Tangle connects what you are capturing now with your entire existing corpus of knowledge, as well as ny piece of information you may acquire in the future. Instead of showing you lists, it shows you connections, both obvious and unobvious. We are very excited to help herald a much needed paradigm shift in knowledge management.
+Finally, you will notice that the Tangle logo rests rather lonely in the top-right quadrant. That is because we are doing things slightly differently. We are creating a tool that mirrors how we think and, while easy to use, stays away from skeuomorphic paradigms and linear organization. Instead, Tangle grants connectivity first-class citizenship. Instead of making the user responsible for organizing their content into linear hierarchies, Tangle connects what you are capturing now with your entire existing corpus of knowledge, as well as ny piece of information you may acquire in the future. Instead of showing you lists, it shows you connections, both obvious and unobvious. We are very excited to help herald a much needed paradigm shift in knowledge management.
 
 **Check out our next post to read more about how Tangle is different than the rest.**
