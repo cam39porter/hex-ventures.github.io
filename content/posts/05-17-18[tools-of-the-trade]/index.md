@@ -15,7 +15,7 @@ tags: ['knowledge', 'management', 'tools']
 
 While PKM technology, as it stands, is not particularly ‘sexy’, it’s an increasingly important space. Almost every knowledge worker today uses some form of note-taking, task management, or mind-mapping software on a daily basis. Yet, for the thousands of these apps developed, and the millions of users that interact with them, they look largely the same as they did ten years ago.
 
-![OneNote](https://storage.googleapis.com/usetangle-static-assets/blog/OneNote.png)
+![onenote](https://storage.googleapis.com/usetangle-static-assets/blog/onenote.png)
 
 *OneNote in 2017 (left) vs 2005 (right)*
 
