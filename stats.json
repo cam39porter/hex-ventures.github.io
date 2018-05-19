@@ -5,8 +5,8 @@
       "path---tags-reflection-7e6e0ecdd604c62acf65.js.map"
     ],
     "path---blog-tools-of-the-trade": [
-      "path---blog-tools-of-the-trade-b3db9adaec0808e441ef.js",
-      "path---blog-tools-of-the-trade-b3db9adaec0808e441ef.js.map"
+      "path---blog-tools-of-the-trade-59feb000a8b81625f8e5.js",
+      "path---blog-tools-of-the-trade-59feb000a8b81625f8e5.js.map"
     ],
     "path---tags-principles": [
       "path---tags-principles-5fb5e41bd5a09130d2a4.js",
@@ -87,6 +87,10 @@
     "path---tags-actionable": [
       "path---tags-actionable-eaaa15405aad09bd8dbe.js",
       "path---tags-actionable-eaaa15405aad09bd8dbe.js.map"
+    ],
+    "path---categories-the-km-corn": [
+      "path---categories-the-km-corn-a5f3d5140ff9e3f81fc0.js",
+      "path---categories-the-km-corn-a5f3d5140ff9e3f81fc0.js.map"
     ],
     "component---src-layouts-index-jsx": [
       "component---src-layouts-index-jsx-5597c7365fafc3ed8883.js",
@@ -283,9 +287,9 @@
       "path---tags-inputs-6ad53e45ee9dba728117.js.map"
     ],
     "app": [
-      "app-8b7fd6d68cbf92431370.js",
+      "app-2abe3364ee46555d6810.js",
       "build-js-styles.css",
-      "app-8b7fd6d68cbf92431370.js.map",
+      "app-2abe3364ee46555d6810.js.map",
       "build-js-styles.css.map"
     ],
     "path---blog-team-principles": [
@@ -309,8 +313,8 @@
       "path---blog-problem-series-habit-reflect-connect-fd4cbeb334ad71364948.js.map"
     ],
     "path---categories-the-km-corner": [
-      "path---categories-the-km-corner-34d6576e91e2e7a2dea1.js",
-      "path---categories-the-km-corner-34d6576e91e2e7a2dea1.js.map"
+      "path---categories-the-km-corner-c0874f80bf122c8f0ead.js",
+      "path---categories-the-km-corner-c0874f80bf122c8f0ead.js.map"
     ],
     "path---tags-machine-learning": [
       "path---tags-machine-learning-a1c4eef269f31a19278e.js",
@@ -321,8 +325,8 @@
       "path---tags-memex-3c8f6e8cb5e882f7abc6.js.map"
     ],
     "path---blog-what-is-pkm": [
-      "path---blog-what-is-pkm-ae302585dbb5be3b6703.js",
-      "path---blog-what-is-pkm-ae302585dbb5be3b6703.js.map"
+      "path---blog-what-is-pkm-05c9d12b6157db61addb.js",
+      "path---blog-what-is-pkm-05c9d12b6157db61addb.js.map"
     ],
     "path---blog-non-actionable-to-actionable-part-2": [
       "path---blog-non-actionable-to-actionable-part-2-6029d27e9e3ee0a74902.js",
