@@ -1,5 +1,5 @@
 ---
-category: "The KM Corner"
+category: "The KM Corn"
 cover: ""
 slug: '/blog/what-is-pkm'
 date: '2018-05-11'
