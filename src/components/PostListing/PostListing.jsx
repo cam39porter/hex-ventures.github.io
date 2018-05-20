@@ -6,29 +6,52 @@ import Alpha from "../Subscribe/Alpha";
 class PostListing extends React.Component {
   getPostList() {
     const postList = [];
-    this.props.postEdges.forEach(postEdge => {
-      postList.push({
-        path: postEdge.node.fields.slug,
-        tags: postEdge.node.frontmatter.tags,
-        cover: postEdge.node.frontmatter.cover,
-        title: postEdge.node.frontmatter.title,
-        date: postEdge.node.frontmatter.date,
-        excerpt: postEdge.node.excerpt,
-        timeToRead: postEdge.node.timeToRead
+    this.props.postEdges &&
+      this.props.postEdges.forEach(postEdge => {
+        postList.push({
+          path: postEdge.node.fields.slug,
+          tags: postEdge.node.frontmatter.tags,
+          cover: postEdge.node.frontmatter.cover,
+          title: postEdge.node.frontmatter.title,
+          date: postEdge.node.frontmatter.date,
+          excerpt: postEdge.node.excerpt,
+          timeToRead: postEdge.node.timeToRead
+        });
       });
-    });
     return postList;
   }
   render() {
     const postList = this.getPostList();
     return (
-      <div className={`w-90 center`}>
-        <Alpha
-          title={"The blog is just the beginning."}
-          body={
-            "If you enjoy what you see here, we bet you will love what we are building. Just click the button and not only will you be at the front of the line for exclusive access to Tangle, we will send you updates on our progress and new content."
-          }
-        />
+      <div className={`w-90 center pb5`}>
+        {!this.props.shouldNotShowAlpha && (
+          <Alpha
+            title={"The blog is just the beginning."}
+            body={
+              "If you enjoy what you see here, we bet you will love what we are building. Just click the button and not only will you be at the front of the line for exclusive access to Tangle, we will send you updates on our progress and new content."
+            }
+          />
+        )}
+
+        {this.props.category && (
+          <div
+            className={`pt5 pb5 f3 fw3 tc measure-narrow center pointer`}
+            onClick={() => {
+              navigateTo(
+                `/categories/${this.props.category.replace(/ /g, "-")}`
+              );
+            }}
+          >
+            {this.props.category}
+          </div>
+        )}
+
+        {this.props.categoryDescription && (
+          <div className={`pb4 f5 fw3 tc measure bb b--accent center gray`}>
+            {this.props.categoryDescription}
+          </div>
+        )}
+
         {/* List of Posts */
         postList.map((post, index) => (
           <div

@@ -4,6 +4,7 @@ import Disqus from "../components/Disqus/Disqus";
 import PostTags from "../components/PostTags/PostTags";
 import SocialLinks from "../components/SocialLinks/SocialLinks";
 import Alpha from "../components/Subscribe/Alpha";
+import { navigateTo } from "gatsby-link";
 import SEO from "../components/SEO/SEO";
 import config from "../../data/SiteConfig";
 import "./post.css";
@@ -31,6 +32,14 @@ export default class PostTemplate extends React.Component {
             "If you are loving this content, we believe you will love what we are building."
           }
         />
+        <div
+          className={`pt4 pb1 f3 fw3 tc pointer`}
+          onClick={() => {
+            navigateTo(`/categories/${post.category.replace(/ /g, "-")}`);
+          }}
+        >
+          {post.category}
+        </div>
         <div className={`post measure-wide center`}>
           <h1>{post.title}</h1>
           <div dangerouslySetInnerHTML={{ __html: postNode.html }} />
