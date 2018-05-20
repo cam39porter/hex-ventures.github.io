@@ -53,27 +53,33 @@ class PostListing extends React.Component {
         )}
 
         {/* List of Posts */
-        postList.map((post, index) => (
-          <div
-            className={`relative center ba br4 b--light-gray pv4 ph3 pa4-l measure mv5 grow pointer`}
-            onClick={() => {
-              navigateTo(post.path);
-            }}
-            key={`${post.title}${index}`}
-          >
-            <div
-              className={`f7 absolute br4 top--1 right--1 bg-accent white pv2 ph3`}
-            >
-              {post.timeToRead} mins
-            </div>
+        postList.map((post, index) => {
+          let date = new Date(post.date);
 
-            <div className={`f4 fw5 lh-copy dark-gray pb4`}>{post.title}</div>
-            <div className={`f6 fw3 lh-copy mid-gray pb4`}>{post.excerpt}</div>
-            <div className={`f7 absolute br4 bottom-0 right-0 gray pv2 ph3`}>
-              {post.date}
+          return (
+            <div
+              className={`relative center ba br4 b--light-gray pv4 ph3 pa4-l measure mv5 grow pointer`}
+              onClick={() => {
+                navigateTo(post.path);
+              }}
+              key={`${post.title}${index}`}
+            >
+              <div
+                className={`f7 absolute br4 top--1 right--1 bg-accent white pv2 ph3`}
+              >
+                {post.timeToRead} mins
+              </div>
+
+              <div className={`f4 fw5 lh-copy dark-gray pb4`}>{post.title}</div>
+              <div className={`f6 fw3 lh-copy mid-gray pb4`}>
+                {post.excerpt}
+              </div>
+              <div className={`f7 absolute br4 bottom-0 right-0 gray pv2 ph3`}>
+                {date.toDateString()}
+              </div>
             </div>
-          </div>
-        ))}
+          );
+        })}
       </div>
     );
   }
