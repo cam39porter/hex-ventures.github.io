@@ -1,2 +1,0 @@
-webpackJsonp([0xa76913805318],{870:function(t,e){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{fields:{slug:"/blog-introducing-tangle"},excerpt:"How we think While the Information Age we live in has contributed greatly to the proliferation of knowledge and access to education, it has…",timeToRead:5,frontmatter:{title:"Introducing Tangle",tags:["problems","notes","tangle"],cover:"",date:"2018-05-04"}}}]}},pathContext:{tag:"tangle"}}}});
-//# sourceMappingURL=path---tags-tangle-0e8538b557a2ddca94cf.js.map

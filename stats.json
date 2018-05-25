@@ -32,6 +32,10 @@
       "path---tags-productivity-0c429fa4519678186577.js",
       "path---tags-productivity-0c429fa4519678186577.js.map"
     ],
+    "path---blog-how-tangle-puts-connection-first": [
+      "path---blog-how-tangle-puts-connection-first-415c3d09848f1d465754.js",
+      "path---blog-how-tangle-puts-connection-first-415c3d09848f1d465754.js.map"
+    ],
     "path---tags-explicit": [
       "path---tags-explicit-402faab5960d6ddc5936.js",
       "path---tags-explicit-402faab5960d6ddc5936.js.map"
@@ -65,8 +69,8 @@
       "path---blog-inputs-outputs-ce17992d9990f729a999.js.map"
     ],
     "path---blog": [
-      "path---blog-f9b073907c9ba1ddcad2.js",
-      "path---blog-f9b073907c9ba1ddcad2.js.map"
+      "path---blog-d84e19400ef6b2bfadd8.js",
+      "path---blog-d84e19400ef6b2bfadd8.js.map"
     ],
     "path---tags-pkm": [
       "path---tags-pkm-960ec9b7e54f39ed11b0.js",
@@ -93,8 +97,8 @@
       "path---categories-the-km-corn-a5f3d5140ff9e3f81fc0.js.map"
     ],
     "component---src-layouts-index-jsx": [
-      "component---src-layouts-index-jsx-b9a9c202104173390483.js",
-      "component---src-layouts-index-jsx-b9a9c202104173390483.js.map"
+      "component---src-layouts-index-jsx-5597c7365fafc3ed8883.js",
+      "component---src-layouts-index-jsx-5597c7365fafc3ed8883.js.map"
     ],
     "path---tags-knowledge": [
       "path---tags-knowledge-6da9d9d6f985e1a6adbd.js",
@@ -121,8 +125,8 @@
       "path---tags-worker-e34832cde0b35ae684f0.js.map"
     ],
     "path---tags-management": [
-      "path---tags-management-cffc1cb161cdb72636d5.js",
-      "path---tags-management-cffc1cb161cdb72636d5.js.map"
+      "path---tags-management-a8a54cd3613ede22c366.js",
+      "path---tags-management-a8a54cd3613ede22c366.js.map"
     ],
     "component---node-modules-gatsby-plugin-offline-app-shell-js": [
       "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js",
@@ -173,8 +177,8 @@
       "component---src-templates-category-jsx-0613a947e52c189f4f2c.js.map"
     ],
     "path---categories-the-tangle-blog": [
-      "path---categories-the-tangle-blog-17cf14693f3e621589c7.js",
-      "path---categories-the-tangle-blog-17cf14693f3e621589c7.js.map"
+      "path---categories-the-tangle-blog-d3a7785ae22e087c536e.js",
+      "path---categories-the-tangle-blog-d3a7785ae22e087c536e.js.map"
     ],
     "path---index": [
       "path---index-a0e39f21c11f6a62c5ab.js",
@@ -227,16 +231,16 @@
       "path---tags-minshew-fd6638db26e4bf3846ce.js.map"
     ],
     "path---tags-tools": [
-      "path---tags-tools-c3ba7e24806db8316830.js",
-      "path---tags-tools-c3ba7e24806db8316830.js.map"
+      "path---tags-tools-d2e4d2e130362b06d704.js",
+      "path---tags-tools-d2e4d2e130362b06d704.js.map"
     ],
     "component---src-templates-tag-jsx": [
       "component---src-templates-tag-jsx-80d461e664cba8c823a3.js",
       "component---src-templates-tag-jsx-80d461e664cba8c823a3.js.map"
     ],
     "path---tags-tangle": [
-      "path---tags-tangle-0e8538b557a2ddca94cf.js",
-      "path---tags-tangle-0e8538b557a2ddca94cf.js.map"
+      "path---tags-tangle-73f5916ff8e935bb6a05.js",
+      "path---tags-tangle-73f5916ff8e935bb6a05.js.map"
     ],
     "component---src-pages-blog-jsx": [
       "component---src-pages-blog-jsx-5d8305c1fa9ca4085c1a.js",
@@ -287,9 +291,9 @@
       "path---tags-inputs-6ad53e45ee9dba728117.js.map"
     ],
     "app": [
-      "app-75f507b7b6af0bb44036.js",
+      "app-6f9ded9591a18264b824.js",
       "build-js-styles.css",
-      "app-75f507b7b6af0bb44036.js.map",
+      "app-6f9ded9591a18264b824.js.map",
       "build-js-styles.css.map"
     ],
     "path---blog-team-principles": [

@@ -1,2 +1,0 @@
-webpackJsonp([96618192495604],{850:function(e,t){e.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{fields:{slug:"/blog-tools-of-the-trade"},excerpt:"In  our last post , we described a general framework for personal knowledge management, its history, and how it has changed. In this post…",timeToRead:5,frontmatter:{title:"The Tools of The Trade",tags:["knowledge","management","tools"],cover:"",date:"2018-05-17"}}}]}},pathContext:{tag:"management"}}}});
-//# sourceMappingURL=path---tags-management-cffc1cb161cdb72636d5.js.map
