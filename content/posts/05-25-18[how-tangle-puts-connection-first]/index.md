@@ -1,7 +1,7 @@
 ---
 category: "The Tangle Blog"
 cover: ""
-slug: '/blog/how-tangle-puts-connection-first'
+slug: '/blog/how-tangle-puts-connection'
 date: '2018-05-25'
 title: 'How Tangle Puts Connection First'
 subtitle: ''
