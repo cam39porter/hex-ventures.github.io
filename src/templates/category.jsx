@@ -12,7 +12,33 @@ export default class CategoryTemplate extends React.Component {
         <Helmet
           title={`Posts in category "${category}" | ${config.siteTitle}`}
         />
-        <PostListing postEdges={postEdges} />
+        {category === "The Tangle Blog" && (
+          <PostListing
+            postEdges={postEdges}
+            category={"The Tangle Blog"}
+            categoryDescription={
+              "Learn more about the product and what it can do for you"
+            }
+          />
+        )}
+        {category === "The Insight Area" && (
+          <PostListing
+            postEdges={postEdges}
+            category={"The Insight Area"}
+            categoryDescription={
+              "Explore the interesting ideas we love to write about"
+            }
+          />
+        )}
+        {category === "The KM Corner" && (
+          <PostListing
+            postEdges={postEdges}
+            category={"The KM Corner"}
+            categoryDescription={
+              "Educate yourself on knowledge management best practices"
+            }
+          />
+        )}
       </div>
     );
   }
