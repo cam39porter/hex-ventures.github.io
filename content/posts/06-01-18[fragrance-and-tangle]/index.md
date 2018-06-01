@@ -2,7 +2,7 @@
 category: "The Tangle Blog"
 cover: ""
 slug: '/blog/how-a-fragrance-professional-builds-her-tangle'
-date: '2018-05-25'
+date: '2018-06-01'
 title: 'How a Fragrance Professional Builds Her Tangle'
 subtitle: ''
 author: 'Myles McGinley'
