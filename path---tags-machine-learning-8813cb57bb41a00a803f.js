@@ -1,0 +1,2 @@
+webpackJsonp([0xe140ce5a49d5],{860:function(e,o){e.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{fields:{slug:"/blog-ai-meets-your-notebook"},excerpt:"We humans are a flexible bunch. We are constantly solving life’s problems; juggling how to deal with our overbearing boss and figuring out…",timeToRead:3,frontmatter:{title:"AI Meets Your Notebook",tags:["AI","MachineLearning","Notebook"],cover:"",date:"2018-06-08"}}}]}},pathContext:{tag:"MachineLearning"}}}});
+//# sourceMappingURL=path---tags-machine-learning-8813cb57bb41a00a803f.js.map
