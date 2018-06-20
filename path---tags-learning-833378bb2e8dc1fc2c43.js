@@ -1,0 +1,2 @@
+webpackJsonp([40430315145424],{865:function(e,t){e.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{fields:{slug:"/blog-the-importance-of-forgetting"},excerpt:"Imagine your brain is a computer. You are ingesting data every second of your life. The data are all different formats: smells, sounds…",timeToRead:6,frontmatter:{title:"The Importance of Forgetting",tags:["Memory","Learning","Forgetting"],cover:"",date:"2018-06-15"}}}]}},pathContext:{tag:"Learning"}}}});
+//# sourceMappingURL=path---tags-learning-833378bb2e8dc1fc2c43.js.map

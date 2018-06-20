@@ -44,6 +44,10 @@
       "path---tags-ted-60c376a237cb406adedc.js",
       "path---tags-ted-60c376a237cb406adedc.js.map"
     ],
+    "path---tags-learning": [
+      "path---tags-learning-833378bb2e8dc1fc2c43.js",
+      "path---tags-learning-833378bb2e8dc1fc2c43.js.map"
+    ],
     "path---blog-introducing-tangle": [
       "path---blog-introducing-tangle-8d24ff4aba33316af05a.js",
       "path---blog-introducing-tangle-8d24ff4aba33316af05a.js.map"
@@ -65,8 +69,8 @@
       "path---blog-inputs-outputs-ce17992d9990f729a999.js.map"
     ],
     "path---blog": [
-      "path---blog-bbca3341956c6710c8f6.js",
-      "path---blog-bbca3341956c6710c8f6.js.map"
+      "path---blog-13d1c83a75a8c90b5deb.js",
+      "path---blog-13d1c83a75a8c90b5deb.js.map"
     ],
     "path---tags-pkm": [
       "path---tags-pkm-960ec9b7e54f39ed11b0.js",
@@ -137,8 +141,8 @@
       "component---src-pages-team-jsx-c30bd675a809bc455073.js.map"
     ],
     "path---tags-memory": [
-      "path---tags-memory-301ce4ec9ba28c9b694a.js",
-      "path---tags-memory-301ce4ec9ba28c9b694a.js.map"
+      "path---tags-memory-3eefa1adbe77222aa2f4.js",
+      "path---tags-memory-3eefa1adbe77222aa2f4.js.map"
     ],
     "path---blog-vannevar-bush-memex": [
       "path---blog-vannevar-bush-memex-58075cfe2e84a075526e.js",
@@ -151,6 +155,10 @@
     "path---blog-gps-story": [
       "path---blog-gps-story-7846f63bd8ca7eeeba58.js",
       "path---blog-gps-story-7846f63bd8ca7eeeba58.js.map"
+    ],
+    "path---blog-the-importance-of-forgetting": [
+      "path---blog-the-importance-of-forgetting-8efd3319af33020b67fc.js",
+      "path---blog-the-importance-of-forgetting-8efd3319af33020b67fc.js.map"
     ],
     "path---tags-identity": [
       "path---tags-identity-b8193cae4d39483c1253.js",
@@ -177,8 +185,8 @@
       "component---src-templates-category-jsx-0613a947e52c189f4f2c.js.map"
     ],
     "path---categories-the-tangle-blog": [
-      "path---categories-the-tangle-blog-9e99c0f43f1dbc3c1814.js",
-      "path---categories-the-tangle-blog-9e99c0f43f1dbc3c1814.js.map"
+      "path---categories-the-tangle-blog-a7c496be4c5e775dfa52.js",
+      "path---categories-the-tangle-blog-a7c496be4c5e775dfa52.js.map"
     ],
     "path---index": [
       "path---index-a0e39f21c11f6a62c5ab.js",
@@ -254,6 +262,10 @@
       "path---tags-tangle-42f0527f2979d3f1337b.js",
       "path---tags-tangle-42f0527f2979d3f1337b.js.map"
     ],
+    "path---tags-forgetting": [
+      "path---tags-forgetting-4d4cbaf01f9ceffb88db.js",
+      "path---tags-forgetting-4d4cbaf01f9ceffb88db.js.map"
+    ],
     "component---src-pages-blog-jsx": [
       "component---src-pages-blog-jsx-5d8305c1fa9ca4085c1a.js",
       "component---src-pages-blog-jsx-5d8305c1fa9ca4085c1a.js.map"
@@ -311,9 +323,9 @@
       "path---tags-inputs-6ad53e45ee9dba728117.js.map"
     ],
     "app": [
-      "app-b6da5a607090b99f2884.js",
+      "app-0314884a0dae468ac924.js",
       "build-js-styles.css",
-      "app-b6da5a607090b99f2884.js.map",
+      "app-0314884a0dae468ac924.js.map",
       "build-js-styles.css.map"
     ],
     "path---blog-team-principles": [
