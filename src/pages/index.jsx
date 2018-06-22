@@ -39,11 +39,11 @@ class Home extends Component {
             <div className={`w-50-l w-100 fl pt4`}>
               <div className={`measure mt4-l mr4-l`}>
                 <div className={`f3 lh-copy dark-gray fw4 pb4`}>
-                  Connect your dots.
+                  Get more from your notes.
                 </div>
                 <div className={`f3 lh-copy mid-gray fw1 pb4`}>
-                  It's hard to know everything you know. Effortlessly surface
-                  your related notes and enhance your creativity with Tangle.
+                  It's hard knowing everything you know. 
+                  Effortlessly surface the connections between your thoughts with the power of Tangle.
                 </div>
                 <div className={`dt pb5`}>
                   <a href={`http://eepurl.com/dtlCKD`} className={`link`}>
@@ -51,7 +51,7 @@ class Home extends Component {
                       <span
                         className={`f4 lh-copy dark-gray b bb bw1 pointer b--accent`}
                       >
-                        Coming soon. Click here to get early access!
+                        Get early access
                       </span>
                     </div>
                     <div className={`dtc v-mid`}>
@@ -70,10 +70,9 @@ class Home extends Component {
             <div className={`measure-wide center`}>
               <div className={`ttu accent lh-copy pb4`}>what is it?</div>
               <div className={`f4 fw2 mid-gray lh-copy`}>
-                Tangle is your smart notebook. Take notes and capture ideas
-                without worrying about how to organize them. Automatically 
-                surface useful connections between what you know as you 
-                build your tangle.
+                Tangle is a notebook that treats each of your notes like a building block.  
+                Tangle helps you find the blocks as you construct your next big idea. 
+                And it does it all without you having to organize a thing.   
               </div>
             </div>
           </div>
@@ -85,11 +84,11 @@ class Home extends Component {
             <div className={`dt-row dtc-l v-mid w-100 w-50-l`}>
               <div className={`f3 measure-narrow lh-copy pa4 fr-l mv6-l`}>
                 <div className={`f3 dark-gray fw4 pb4`}>
-                  Stop wasting time organizing.
+                  Collect your blocks.
                 </div>
                 <div className={`f4 mid-gray fw2`}>
-                  Spend your time where it matters,
-                  not on folder names.
+                  Take better, more concise notes with Tangle's capture interface.
+                  Each note you take helps to build your knowledge. 
                 </div>
               </div>
             </div>
@@ -314,12 +313,11 @@ class Home extends Component {
             </div>
             <div className={`dtc-l dt-row w-50 v-mid`}>
               <div className={`f3 pv7-l measure-narrow center lh-copy pa4`}>
-                <div className={`f3 dark-gray fw4 pb4`}>Get more from your notes.</div>
+                <div className={`f3 dark-gray fw4 pb4`}>Stop organizing notes.</div>
                 <div className={`f4 gray fw2`}>
-                  Make what you write down more valuable. Tangle
-                  creates a network of your notes and connects the dots for you in real-time.
-                  Literally.
-                </div>
+                  Tangle fits your building blocks together for you like a puzzle. 
+                  No more wasting time organizing folders. 
+                   </div>
               </div>
             </div>
           </div>
@@ -348,9 +346,11 @@ class Home extends Component {
                   Make your old thoughts new.
                 </div>
                 <div className={`f4 mid-gray fw2`}>
+                  Tangle reconfigures your blocks for you everytime you capture something new.
+                  The notes you took years ago are brought to the 
+                  surface if they are relevant to what you are working on today.
                   Don’t let the great ideas you had a year ago slip through the
-                  cracks again. Tangle sparks your creativity by automatically
-                  connecting your current thinking to the past.
+                  cracks again.
                 </div>
               </div>
             </div>
