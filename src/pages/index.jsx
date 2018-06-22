@@ -52,7 +52,7 @@ class Home extends Component {
                       <span
                         className={`f4 lh-copy dark-gray b bb bw1 pointer b--accent`}
                       >
-                        Get early access
+                        Click here to get early access
                       </span>
                     </div>
                     <div className={`dtc v-mid`}>
