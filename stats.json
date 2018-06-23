@@ -45,8 +45,8 @@
       "path---tags-ted-60c376a237cb406adedc.js.map"
     ],
     "path---tags-learning": [
-      "path---tags-learning-833378bb2e8dc1fc2c43.js",
-      "path---tags-learning-833378bb2e8dc1fc2c43.js.map"
+      "path---tags-learning-eb3455e3548e90c15adb.js",
+      "path---tags-learning-eb3455e3548e90c15adb.js.map"
     ],
     "path---blog-introducing-tangle": [
       "path---blog-introducing-tangle-8d24ff4aba33316af05a.js",
@@ -69,8 +69,8 @@
       "path---blog-inputs-outputs-ce17992d9990f729a999.js.map"
     ],
     "path---blog": [
-      "path---blog-13d1c83a75a8c90b5deb.js",
-      "path---blog-13d1c83a75a8c90b5deb.js.map"
+      "path---blog-77074b9f457cff9db2a7.js",
+      "path---blog-77074b9f457cff9db2a7.js.map"
     ],
     "path---tags-pkm": [
       "path---tags-pkm-960ec9b7e54f39ed11b0.js",
@@ -89,8 +89,8 @@
       "path----557518bd178906f8d58a.js.map"
     ],
     "path---categories-the-insight-area": [
-      "path---categories-the-insight-area-f9844d396dc70fdd8097.js",
-      "path---categories-the-insight-area-f9844d396dc70fdd8097.js.map"
+      "path---categories-the-insight-area-34598a89296c9c4a038b.js",
+      "path---categories-the-insight-area-34598a89296c9c4a038b.js.map"
     ],
     "path---tags-capture": [
       "path---tags-capture-2c17f4389e0e3d75ec2b.js",
@@ -111,6 +111,10 @@
     "path---tags-performance": [
       "path---tags-performance-6ec03f14f16dcf625469.js",
       "path---tags-performance-6ec03f14f16dcf625469.js.map"
+    ],
+    "path---tags-lessons": [
+      "path---tags-lessons-76af23668a16d7ce489d.js",
+      "path---tags-lessons-76af23668a16d7ce489d.js.map"
     ],
     "path---tags-tacit": [
       "path---tags-tacit-b22a9766dc8f7fc3544e.js",
@@ -184,6 +188,10 @@
       "component---src-templates-category-jsx-0613a947e52c189f4f2c.js",
       "component---src-templates-category-jsx-0613a947e52c189f4f2c.js.map"
     ],
+    "path---tags-founder": [
+      "path---tags-founder-54a8da8904609bc0016a.js",
+      "path---tags-founder-54a8da8904609bc0016a.js.map"
+    ],
     "path---categories-the-tangle-blog": [
       "path---categories-the-tangle-blog-a7c496be4c5e775dfa52.js",
       "path---categories-the-tangle-blog-a7c496be4c5e775dfa52.js.map"
@@ -227,6 +235,10 @@
     "path---blog-modern-reflection": [
       "path---blog-modern-reflection-a27c9e171773df7904fe.js",
       "path---blog-modern-reflection-a27c9e171773df7904fe.js.map"
+    ],
+    "path---blog-6-universal-lessons": [
+      "path---blog-6-universal-lessons-1471e2f2ab087ff78fe5.js",
+      "path---blog-6-universal-lessons-1471e2f2ab087ff78fe5.js.map"
     ],
     "path---tags-notes": [
       "path---tags-notes-0885678913e2962a7020.js",
@@ -311,8 +323,8 @@
       "component---src-templates-post-jsx-fc575c17066714173a8e.js.map"
     ],
     "component---src-pages-index-jsx": [
-      "component---src-pages-index-jsx-bef10c3920d7519c2ae8.js",
-      "component---src-pages-index-jsx-bef10c3920d7519c2ae8.js.map"
+      "component---src-pages-index-jsx-4d631d0daf722a00122e.js",
+      "component---src-pages-index-jsx-4d631d0daf722a00122e.js.map"
     ],
     "path---tags-silos": [
       "path---tags-silos-8d2d926f90a4e172544c.js",
@@ -323,9 +335,9 @@
       "path---tags-inputs-6ad53e45ee9dba728117.js.map"
     ],
     "app": [
-      "app-324d13484f3abec205a3.js",
+      "app-500ec65cdceac484c0ef.js",
       "build-js-styles.css",
-      "app-324d13484f3abec205a3.js.map",
+      "app-500ec65cdceac484c0ef.js.map",
       "build-js-styles.css.map"
     ],
     "path---blog-team-principles": [
