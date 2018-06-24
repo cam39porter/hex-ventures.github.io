@@ -39,12 +39,11 @@ class Home extends Component {
             <div className={`w-50-l w-100 fl pt4`}>
               <div className={`measure mt4-l mr4-l`}>
                 <div className={`f3 lh-copy dark-gray fw4 pb4`}>
-                  Connect your dots.
+                  Get more from your notes.
                 </div>
                 <div className={`f3 lh-copy mid-gray fw1 pb4`}>
-                  It's hard to know everything you know. Effortlessly surface
-                  the connections between your thoughts with the power of
-                  Tangle.
+                  It's hard knowing everything you know. 
+                  Effortlessly surface the connections between your thoughts with the power of Tangle.
                 </div>
                 <div className={`dt pb5`}>
                   <a href={`http://eepurl.com/dtlCKD`} className={`link`}>
@@ -71,11 +70,9 @@ class Home extends Component {
             <div className={`measure-wide center`}>
               <div className={`ttu accent lh-copy pb4`}>what is it?</div>
               <div className={`f4 fw2 mid-gray lh-copy`}>
-                Tangle is your personal knowledge graph. Capture your thoughts,
-                jot down ideas, and import your notes from your favorite service
-                without worrying about how to organize them. Easily surface
-                useful connections between what you know when you build your
-                tangle.
+                Tangle is a notebook that treats each of your notes like a building block.  
+                Tangle helps you assemble your blocks as you construct your next big idea. 
+                And it does it all without you having to organize a thing.   
               </div>
             </div>
           </div>
@@ -87,11 +84,12 @@ class Home extends Component {
             <div className={`dt-row dtc-l v-mid w-100 w-50-l`}>
               <div className={`f3 measure-narrow lh-copy pa4 fr-l mv6-l`}>
                 <div className={`f3 dark-gray fw4 pb4`}>
-                  Stop organizing notes.
+                  Take better notes.
                 </div>
                 <div className={`f4 mid-gray fw2`}>
-                  Spend more time capturing thoughts and less time organizing
-                  them.
+                  Tangle's building block interface 
+                  promotes shorter, more concise writing.
+                  Each note you take helps to build your knowledge. 
                 </div>
               </div>
             </div>
@@ -316,12 +314,11 @@ class Home extends Component {
             </div>
             <div className={`dtc-l dt-row w-50 v-mid`}>
               <div className={`f3 pv7-l measure-narrow center lh-copy pa4`}>
-                <div className={`f3 dark-gray fw4 pb4`}>Explore your mind.</div>
+                <div className={`f3 dark-gray fw4 pb4`}>Stop organizing notes.</div>
                 <div className={`f4 gray fw2`}>
-                  Don’t hold your ideas hostage in files and folders. Tangle
-                  creates a network of thoughts and connects the dots for you.
-                  Literally.
-                </div>
+                  Tangle fits your building blocks together for you like a puzzle. 
+                  No more wasting time with folder organization. 
+                   </div>
               </div>
             </div>
           </div>
@@ -350,9 +347,9 @@ class Home extends Component {
                   Make your old thoughts new.
                 </div>
                 <div className={`f4 mid-gray fw2`}>
-                  Don’t let the great ideas you had a year ago slip through the
-                  cracks again. Tangle sparks your creativity by automatically
-                  connecting your current thinking to the past.
+                  Tangle resurfaces your old notes in real-time if they are relevant to 
+                  what you are building today. Don’t let last year's great ideas slip 
+                  through the cracks again.
                 </div>
               </div>
             </div>
@@ -375,8 +372,7 @@ class Home extends Component {
           <div className={`measure-wide center pv6`}>
             <div className={`ttu accent lh-copy pb4`}>Why build Tangle?</div>
             <div className={`f4 fw2 mid-gray lh-copy`}>
-              Because we believe in empowering everyone to capture and connect
-              thoughts to create big ideas.
+              To empower everyone to create big ideas.
             </div>
           </div>
         </div>
