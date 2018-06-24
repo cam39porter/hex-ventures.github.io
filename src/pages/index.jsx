@@ -70,7 +70,7 @@ class Home extends Component {
             <div className={`measure-wide center`}>
               <div className={`ttu accent lh-copy pb4`}>what is it?</div>
               <div className={`f4 fw2 mid-gray lh-copy`}>
-                Tangle is a notebook that treats each of your notes like a building block.  
+                Tangle is a notebook that treats your reference materials like building blocks.  
                 Tangle helps assemble your blocks as you construct your next big idea. 
                 And it does it all without you having to organize a thing.   
               </div>
