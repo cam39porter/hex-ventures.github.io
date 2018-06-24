@@ -314,7 +314,7 @@ class Home extends Component {
             </div>
             <div className={`dtc-l dt-row w-50 v-mid`}>
               <div className={`f3 pv7-l measure-narrow center lh-copy pa4`}>
-                <div className={`f3 dark-gray fw4 pb4`}>Stop organizing notes.</div>
+                <div className={`f3 dark-gray fw4 pb4`}>Stop organizing.</div>
                 <div className={`f4 gray fw2`}>
                   Tangle fits your building blocks together for you like a puzzle. 
                   No more wasting time with folder organization. 
