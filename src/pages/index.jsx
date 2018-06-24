@@ -71,7 +71,7 @@ class Home extends Component {
               <div className={`ttu accent lh-copy pb4`}>what is it?</div>
               <div className={`f4 fw2 mid-gray lh-copy`}>
                 Tangle is a notebook that treats each of your notes like a building block.  
-                Tangle helps you assemble your blocks as you construct your next big idea. 
+                Tangle helps assemble your blocks as you construct your next big idea. 
                 And it does it all without you having to organize a thing.   
               </div>
             </div>
@@ -87,8 +87,8 @@ class Home extends Component {
                   Take better notes.
                 </div>
                 <div className={`f4 mid-gray fw2`}>
-                  Tangle's building block interface 
-                  promotes shorter, more concise writing.
+                  Tangle's building blocks 
+                  promote shorter, more concise writing.
                   Each note you take helps to build your knowledge. 
                 </div>
               </div>
@@ -344,12 +344,11 @@ class Home extends Component {
             <div className={`dt-row w-100`}>
               <div className={`f3 measure-narrow center lh-copy pa4`}>
                 <div className={`f3 dark-gray fw4 pb4`}>
-                  Make your old thoughts new.
+                  Keep your notes fresh.
                 </div>
                 <div className={`f4 mid-gray fw2`}>
-                  Tangle resurfaces your old notes in real-time if they are relevant to 
-                  what you are building today. Don’t let last year's great ideas slip 
-                  through the cracks again.
+                  Tangle resurfaces helpful notes in real-time as you build your knowledge. 
+                  Don’t let last year's great ideas slip through the cracks again.
                 </div>
               </div>
             </div>
