@@ -22,7 +22,7 @@ const teamMembers = [
     founder: true,
     link: "https://www.linkedin.com/in/myles-mcginley-10708954/",
     bitmoji:
-      "https://storage.googleapis.com/usetangle-static-assets/team-bitmojis/myles-mcginley.png"
+      "https://storage.googleapis.com/usetangle-static-assets/team-bitmojis/myles-bitmoji.png"
   },
   {
     name: "Cole McCracken",
