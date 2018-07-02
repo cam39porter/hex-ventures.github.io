@@ -31,7 +31,7 @@ const teamMembers = [
     founder: true,
     link: "https://www.linkedin.com/in/colemccracken/",
     bitmoji:
-      "https://storage.googleapis.com/usetangle-static-assets/team-bitmojis/cole-mccracken.png"
+      "https://storage.googleapis.com/usetangle-static-assets/team-bitmojis/cole-bitmoji.png"
   },
   {
     name: "Will Minshew",
