@@ -1,0 +1,2 @@
+webpackJsonp([0x7e01a6e1d9de],{876:function(a,e){a.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{fields:{slug:"/blog-idea-personal-insight"},excerpt:"Data visualization is all the rage and for good reason. Technology that allows a user to transform data into a digestible format is valuable…",timeToRead:4,frontmatter:{title:"An Idea for a Personal Insight Engine",tags:["Idea","Insight","Engine"],cover:"",date:"2018-07-06"}}}]}},pathContext:{tag:"Idea"}}}});
+//# sourceMappingURL=path---tags-idea-79a194c731492d18a7b1.js.map
