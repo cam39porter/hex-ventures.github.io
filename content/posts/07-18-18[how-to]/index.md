@@ -3,7 +3,7 @@ category: "The Tangle Blog"
 cover: ""
 slug: '/blog/guide'
 date: '2018-07-18'
-title: 'Alpha How To Guide'
+title: 'How To Guide'
 subtitle: ''
 author: 'Myles McGinley'
 tags: ['']
