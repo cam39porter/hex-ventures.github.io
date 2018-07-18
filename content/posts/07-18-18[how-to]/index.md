@@ -4,9 +4,9 @@ cover: ""
 slug: '/blog/how-to'
 date: '2018-07-18'
 title: 'Tangle's Alpha How-to Guide'
-subtitle: 'Updated 7-18-18'
+subtitle: ''
 author: 'Myles McGinley'
-tags: ['how-to']
+tags: ['']
 ---
 
 **Hi there!** 
