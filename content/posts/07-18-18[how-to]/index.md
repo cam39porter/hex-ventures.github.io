@@ -6,7 +6,7 @@ date: '2018-07-18'
 title: 'How To Guide'
 subtitle: ''
 author: 'Myles McGinley'
-tags: ['']
+tags: ['Guide']
 ---
 
 **Hi there!** 
