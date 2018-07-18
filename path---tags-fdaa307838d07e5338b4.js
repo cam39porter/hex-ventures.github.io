@@ -1,2 +1,0 @@
-webpackJsonp([55702396619907],{918:function(e,t){e.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{fields:{slug:"/blog-guide"},excerpt:'Hi there!   This page is the dedicated "How-to Guide" for Tangle. We will be updating it as we roll out new features and will let you when…',timeToRead:1,frontmatter:{title:"How To Guide",tags:[""],cover:"",date:"2018-07-18"}}}]}},pathContext:{tag:""}}}});
-//# sourceMappingURL=path---tags-fdaa307838d07e5338b4.js.map
