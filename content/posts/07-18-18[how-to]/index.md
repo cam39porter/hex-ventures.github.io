@@ -1,9 +1,9 @@
 ---
 category: "The Tangle Blog"
 cover: ""
-slug: '/blog/how-to'
+slug: '/blog/guide'
 date: '2018-07-18'
-title: 'Tangle's Alpha How-to Guide'
+title: 'Tangle's Alpha How To Guide'
 subtitle: ''
 author: 'Myles McGinley'
 tags: ['']
