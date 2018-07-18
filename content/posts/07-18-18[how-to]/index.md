@@ -29,7 +29,7 @@ Then, head to Tangle and click the upload button in the navigation bar on the l
 
 Two things to note:
 
-1. The maximum amount of data you can import to Tangle is 1MB/note or 50MB total
+1. The maximum amount of data you can import to Tangle is 1MB/note or 100MB total
 
 2. Images are not supported by Tangle yet
 
