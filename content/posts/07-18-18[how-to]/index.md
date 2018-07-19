@@ -17,7 +17,7 @@ This page is the dedicated "How-to Guide" for Tangle. We will be updating it as 
 
 Click the big orange plus button in the top left or the "Create a new note" button on the right of the home screen and get writing!
 
-You can use all the normal rich text editing shortcuts or use markdown -- there is a Markdown cheat sheet at the bottom of the editor  
+You can use all the normal rich text editing shortcuts or use markdown -- there is a Markdown cheat sheet at the bottom of the editor.  
 
 ### Importing from Evernote
 
@@ -29,9 +29,9 @@ Then, head to Tangle and click the upload button in the navigation bar on the l
 
 Two things to note:
 
-1. The maximum amount of data you can import to Tangle is 1MB/note or 100MB total
+1. The maximum amount of data you can import to Tangle is 1MB/note or 100MB total.
 
-2. Images are not supported by Tangle yet
+2. Images are not supported by Tangle yet.
 
 ### Searching
 
