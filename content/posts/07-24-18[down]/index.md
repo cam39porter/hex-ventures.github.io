@@ -3,7 +3,7 @@ category: "The Tangle Blog"
 cover: ""
 slug: '/blog/back-soon'
 date: '2018-07-24'
-title: 'Oops! Tangle is down for a second'
+title: 'Oops! Tangle is resting!'
 subtitle: ''
 author: 'Myles McGinley'
 tags: ['sorry!']
