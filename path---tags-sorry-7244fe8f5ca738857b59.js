@@ -1,2 +1,0 @@
-webpackJsonp([0xcc970d3c491f],{913:function(e,t){e.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{fields:{slug:"/blog-back-soon"},excerpt:"We are currently giving Tangle a rest to make a quick update. We should be back online in no time! We apologize for the inconvience and…",timeToRead:1,frontmatter:{title:"Oops! Tangle is resting!",tags:["sorry!"],cover:"",date:"2018-07-24"}}}]}},pathContext:{tag:"sorry!"}}}});
-//# sourceMappingURL=path---tags-sorry-7244fe8f5ca738857b59.js.map
