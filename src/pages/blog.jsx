@@ -15,12 +15,12 @@ class Blog extends React.Component {
         <Helmet title={config.siteTitle} />
         <SEO postEdges={postEdges} />
 
-        {/* <Alpha
+        <Alpha
           title={"The blog is just the beginning."}
           body={
             "If you enjoy what you see here, we bet you will love what we are building. Just click the button and not only will you be at the front of the line for exclusive access to Tangle, we will send you updates on our progress and new content."
           }
-        /> */}
+        />
 
         <div className={`mt5 mb5 measure-wide center pa4 ba br4 b--light-gray`}>
           <PostListing

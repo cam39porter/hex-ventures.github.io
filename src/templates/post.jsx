@@ -26,12 +26,12 @@ export default class PostTemplate extends React.Component {
           <title>{`${post.title} | ${config.siteTitle}`}</title>
         </Helmet>
         <SEO postPath={slug} postNode={postNode} postSEO />
-        <Alpha
+        {/* <Alpha
           title={"Pardon the interruption."}
           body={
             "If you are loving this content, we believe you will love what we are building."
           }
-        />
+        /> */}
         <div
           className={`pt4 pb1 f3 fw3 tc pointer`}
           onClick={() => {
