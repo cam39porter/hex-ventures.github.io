@@ -19,18 +19,18 @@ const Footer = props => {
               @usetangle
             </a>
           </div>
-          <div className={`dt-row h2`}>
-            On Medium at{" "}
-            <a className={`link`} href={"https://medium.com/@tangle"}>
-              @tangle
-            </a>
-          </div>
-          <div className={`dt-row h2`}>
+          {/* <div className={`dt-row h2`}>
+              On Medium at{" "}
+              <a className={`link`} href={"https://medium.com/@tangle"}>
+                @tangle
+              </a>
+            </div> */}
+          {/* <div className={`dt-row h2`}>
             Address at{" "}
             <a className={`link`} href={"https://goo.gl/maps/TsdbnBezMZ62"}>
               1111 Kearny St, San Francisco, CA
             </a>
-          </div>
+          </div> */}
         </div>
       </div>
     </div>

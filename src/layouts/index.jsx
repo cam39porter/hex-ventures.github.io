@@ -48,14 +48,6 @@ export default class MainLayout extends React.Component {
     const { children } = this.props;
     return (
       <div className={`avenir`}>
-        <div
-          className={`pv3 ph3 w-100 bg-accent white f5 fw3 dim tc pointer`}
-          onClick={() => {
-            window.location.href = "https://tangleapp.co";
-          }}
-        >
-          Login into Tangle with early access
-        </div>
         <div className={`ph3 ph6-ns pt4`}>
           <Helmet>
             <title>{`${config.siteTitle} |  ${this.getLocalTitle()}`}</title>

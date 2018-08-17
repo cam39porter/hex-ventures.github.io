@@ -46,7 +46,7 @@ const teamMembers = [
 class TeamPage extends Component {
   render() {
     return (
-      <div className={`w-90 center`}>
+      <div className={`center`}>
         <Helmet title={`Team | ${config.siteTitle}`} />
         <Alpha
           title={"Join us on the journey of the lifelong brainstorm."}
